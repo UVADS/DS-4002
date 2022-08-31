@@ -7,12 +7,11 @@ Our data collection process had 3 main steps. First, we created a Google Forms S
 [our data](https://github.com/UVADS/DS-4002/blob/ad5c7c7b1767f8f3f0f2a61ee8738786f5e9eef6/hot-dog/Data%20Science%20Survey.xlsx)
 
 ### Data Dictionary
-| Column        | Description                                                                                       | Potential Reponses                                                                                                                                    |                    
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| Timestamp     | indicates the month/day/year and hour, minute, and second that the responder completed the survey |                                                                                                                                                       |
-| Undergraduate | Answers the question: Are you a UVA undergraduate student?                                        | "Yes" indicates that the responder is a UVA undergraduate student, "No" indicates that the responder is not a UVA undergraduate student               |
-| Sandwich      | Answers the question: Is a hot dog a sandwich?                                                    | "Yes" indicates that the responder believes that a hot dog is a sandwich, "No" indicates that the responder believes that a hot dog is not a sandwich |
-
+| Column| Description| Potential Reponses|                   
+|-------|------------|-------------------|
+| Timestamp | indicates the month/day/year and hour, minute, and second that the responder completed the survey |month/day/year, hour:minute:second|
+| Undergraduate| Answers the question: Are you a UVA undergraduate student?| "Yes" indicates that the responder is a UVA undergraduate student, "No" indicates that the responder is not a UVA undergraduate student|
+| Sandwich| Answers the question: Is a hot dog a sandwich?| "Yes" indicates that the responder believes that a hot dog is a sandwich, "No" indicates that the responder believes that a hot dog is not a sandwich |
 
 ### Data Context Narrative
 We collected data in order to determine whether undergraduate students at UVA believe that hotdogs are sandwiches.  In our survey, we found that 65.4% of respondents thought hotdogs were not sandwiches and 35.5% of respondents believed hotdogs were sandwiches. This is significant because there is no consensus among the subjects of our study - UVA undergraduate students - that one stance is valid - a hot dog is a sandwich - over the other - a hot dog is not a sandwich. Being able to settle the debate about this question is essential to be able to have a decisive answer. It helps people understand how we define specific categories, hot dogs and sandwiches, and the specific characteristics that go with each category. Furthermore, it will aid reputable sources like Merriam-Webster to have a more definitive answer so that these types of sources do not continue to have conflicting answers/opinions but rather facts. 
