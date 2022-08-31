@@ -1,1 +1,2 @@
-lorem ipsum
+### Data Collection
+Our data collection process had 3 main steps. First, we created a Google Forms Survey with two main questions asking about each respondent's UVA student status as well as his or her opinion on whether a hot dog is a sandwich. Next, each member of the class -- around 20-30 students -- circulated this form in an attempt to recieve as many responses as possible within a seven day time frame. Finally, this data was compiled into an excel spreadsheet for further analysis. 
