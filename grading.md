@@ -1,5 +1,3 @@
-# updating from template
-
 # Grading Policy
 This course uses the grading policy known as specifications grading. It has been demonstrated to provide much greater equity in the classroom and as a result improves achivement of learning objectives. However this system may be new to you. It does take some time to understand and we are ready to help you with any questions you may have. Please take advantage of office hours. For additional reading on this policy please start here [(link)](https://cte.virginia.edu/blog/2020/12/04/alternative-grading-practices-support-both-equity-and-learning).
 
