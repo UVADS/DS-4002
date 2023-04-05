@@ -95,7 +95,7 @@ The 5 assignment categories:
 
 ## A few Policies that will Govern the Class
 
-Grading Policies: This course uses the specifications grading system as explained in **Specifications Grading** By Linda Nilson. For details [see this page](grading.md).
+Grading Policies: This course uses the specifications grading system as explained in **Specifications Grading** By Linda Nilson and under the guidance of the [UVA CTE](https://app.cte.virginia.edu/events/cdi-2x-designing-equitable-grading-schemes). For details [see this page](grading.md).
 
 University of Virginia Honor System: All work should be pledged in the spirit of the Honor System at the University of Virginia. The instructor will indicate which assignments and activities are to be done individually and which permit collaboration. The following pledge should be written out at the end of all quizzes, examinations, individual assignments, and papers:  “I pledge that I have neither given nor received help on this examination (quiz, assignment, etc.)”.  The pledge must be signed by the student. For more information, visit www.virginia.edu/honor.
 
