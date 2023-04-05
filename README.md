@@ -62,7 +62,7 @@ contribute to the community. Learning objectives include:
 
 
 ## How You’ll Know You Are Learning (Assessments)
-Each assignment has a rubric to indicate the purpose, task, and criteria for the assignment. They are grouped into several categories summarized below. Details of how the assignments map onto course letter grades is presented in grading.md. Alignment to the learning objectives is shown in the individual rubrics.
+Each assignment has a rubric to indicate the purpose, task, and criteria for the assignment. They are grouped into several categories summarized below. Details of how the assignments map onto course letter grades is presented in (grading.md). Alignment to the learning objectives is shown in the individual rubrics. 
 
 The 5 assignment categories:
 1. Project Milestones - These assignments describe milestones in the project cycle and help guide the student through the process of working a project from start to finish.
