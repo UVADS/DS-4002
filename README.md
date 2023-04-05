@@ -47,18 +47,18 @@ the field’s core ideas and what is demanded from practicing data scientists. A
 outcome would be for students to gain a perspective on the breadth of the field of data 
 science, understand important tools and environments, and develop skills necessary to 
 contribute to the community. Learning objectives include:
-* • Cognitive
-  *o research ideas in a domain and create a testable hypothesis/model
-  *o develop a project plan based on the scientific method principles
-  *o establish data sets relevant to your hypothesis/model
-  *o create a functioning data science pipeline
-  *o prepare findings for presentation to your peers
-*• Social
-  *o Collaborate with peers to implement your project plan
+* Cognitive
+  * research ideas in a domain and create a testable hypothesis/model
+  * develop a project plan based on the scientific method principles
+  * establish data sets relevant to your hypothesis/model
+  * create a functioning data science pipeline
+  * prepare findings for presentation to your peers
+* Social
+  * Collaborate with peers to implement your project plan
   * Provide constructive criticism
-  *o Demonstrate appropriate behavior in group settings
-*• Psychomotor
-  *o Present results of a team project and field audience questions
+  * Demonstrate appropriate behavior in group settings
+* Psychomotor
+  * Present results of a team project and field audience questions
 
 
 ## How You’ll Know You Are Learning (Assessments)
