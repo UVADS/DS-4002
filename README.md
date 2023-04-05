@@ -70,47 +70,28 @@ The 5 assignment categories:
 4. Case Studies - These assignments are about studying how to present your projects in a way in which someone else could pick it up and study it.
 5. Reflection - These assignments provide space for further reflection and investigation on items that you find interesting but do not necessarially have time to work on during your project.
 
-## Materials That Will Aid in Your Learning: 
-
-* A. [Weapons of Math Destruction](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815)
-* B. [Observe, Collect, Draw! by Lupi and Posavec](https://www.amazon.com/Observe-Collect-Draw-Visual-Journal/dp/1616897147)
-* C. [R for Data Science](https://r4ds.had.co.nz/)
-* D. [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K)
-* E. [How charts lie : getting smarter about visual information](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569)
-
 ## Schedule of Topics 
 
-| Week 	| Date|Theme 	| Topics 	| Lab 	| Reading/Repo (Prior to Class) 	|
+| Week 	| Date|Project # 	|Project Cycle	| Plan 	|Milestone	|
 |:---:	|:---:|:---:	|:---:	|:---:	|:---:	|
-| Week 1  | 1/19 (Thr only)|Motivate the Field + Course Narrative	|  	   | 	 No Lab    | [5 THINGS I WISH I KNEW Before Starting Data Science](https://www.youtube.com/watch?v=B5emClQf_I4&feature=youtu.be)	      |
-| Week 2  | 1/24,26,27|Course Narrative +  Design SDS  | There and back again.. + Constant Vigilance   | Lupi Personal Data Collect and Visualize [rubric](https://myuva-my.sharepoint.com/:b:/g/personal/lpa2a_virginia_edu/EbhizPx6z85DuqgHvVIv_SYB1YYeRYXhhJ_3rdy0pdTgvQ?e=olhyk8) | [How we can find ourselves in data , Giorgia Lupi](https://youtu.be/sFIDCtRX_-o)	|
-| Week 3  |	1/31,2/2,3|Design + Internal  | Professor Forelle + Reinforcement	|	Game Lab: Set  |  [Gapminder Video #1 - Health, Money & Sex in Sweden](https://www.youtube.com/watch?v=18MZmVDv7uo)	|
-| Week 4  |	2/7,9,10| Design + External |	Ms. O'Brien + Reinforcement |  Case Study (map projections?)  | [Why all world maps are wrong](https://www.youtube.com/watch?v=kIID5FDi2JQ)	|
-| Week 5  | 2/14,16,17|Ethics SDS |  Renee Cummings + Overview of Value I |  Game Lab: Guess Who?     | [Chapt1: Ethics and Data Science](https://learning.oreilly.com/library/view/ethics-and-data/9781492043898/ch01.html)   | 
-| Week 6	 | 2/21,23,24|Ethics + Internal	  | Overview of Value II + Professor Reia | Ethical Frameworks  |   |
-| Week 7  | 2/28,3/2,3|Ethics + External   | Patrick Hall + Value Reinforcement	|   Case Study	| |
+| Week 1  | 1/19 (Thr only)|0	|  	   | 	Course Philosophy    |	      |
+| Week 2  | 1/24,26,27|0  |   | DS proejct fundamentals | |
+| Week 3  |	1/31,2/2,3|0  | 	|DS proejct fundamentals | 	|
+| Week 4  |	2/7,9,10|1|	1 |  Begin Project 1 | MI1	|
+| Week 5  | 2/14,16,17|1 | 2 |    | MI2   | 
+| Week 6	 | 2/21,23,24|1	  | 3 |   | MI3  |
+| Week 7  | 2/28,3/2,3|1   | 4	|   Presentation Week	|MI4 |
 | Week 8  | Spring Break (3/4-12)|                    |  	| 	 | 	|
-| Week 9  | 3/14,16,17| Systems	|  	| Personal Data Collect lab	  | [Hardware videos, pick 4](https://youtube.com/playlist?list=PLc0No4e8MMEPztUFVdtazgWi7L7pWakfO)	|
-| Week 10 | 3/21,23,24| Systems + Internal	| Guest: Neal Magee 	|	Game Lab: Mouse Trap  | [Powers of Ten](https://youtu.be/0fKBhvDjuy0)	|
-| Week 11 | 3/28,30,31| Systems + External | Guest: Miriam Friedel 	| Case Study  | [Is it Time to Rename the GPU?](https://www.computer.org/publications/tech-news/chasing-pixels/is-it-time-to-rename-the-gpu)  |
-| Week 12 |	4/4,6,7|  Analytics  |	  | Personal Data Collect Lab |	|
-| Week 13 | 4/11,13,14| Analytics + Internal |  	| Game Lab: Mastermind  |   |
-| Week 14 | 4/18,20,21| Analytics + Internal |   | Case Study  |   |
-| Week 15 | 4/25,27,28| Practice	| 	| Make Up  |   |
-| Week 16 | 5/2 (Tue only)| Practice	|  	|  	|  	|
+| Week 9  | 3/14,16,17| 2	|  1	| Begin Project 2	  |MI 1|
+| Week 10 | 3/21,23,24|2	| 2-3	|	  | MI 2/3	|
+| Week 11 | 3/28,30,31| 2 | 4 	| Presentation Week  | MI4  |
+| Week 12 |	4/4,6,7|  3  |	 1 | Begin Project 3 |	MI1|
+| Week 13 | 4/11,13,14| 3 |  2	|   | MI2  |
+| Week 14 | 4/18,20,21| 3 |   3| |  MI3 |
+| Week 15 | 4/25,27,28| 3	| 	4| Presentation Week  | MI4  |
+| Week 16 | 5/2 (Tue only)| --	|  	|  	|  	|
 | Examinations | 5/4-5/12 | | | | |
 
-## Guest Speakers
-
-* MC Forelle: Assistant Professor of Engineering and Society
-* Carrie O'Brien: User Interface Designer at Capital One: Messaging, Web, and Human-Centered Design
-* Jess Reia: Assistant Professor, School of Data Science
-* Renee Cummings: Data Activist in Residence, School of Data Science 
-* Neal Magee: Director, Solutions & DevOps, UVA Research Computing
-* Miriam Friedel: Senior Director, Machine Learning Engineering at Capital One - Center for Machine Learning
-* Rafael Alvardo: Associate Professor, School of Data Science 
-* Steven Baek: Associate Professor School of Data Science
-* Sheng Li: Associate Professor School of Data Science
 
 ## A few Policies that will Govern the Class
 
