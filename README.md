@@ -19,7 +19,7 @@ Level: Undergraduate
 
 Credit Type: Grade (A-F) using [Specifications Grading](https://app.cte.virginia.edu/events/cdi-2x-designing-equitable-grading-schemes)
 
-
+LMS: This course uses UVACanvas (https://canvas.virginia.edu/)
 <br>
 
 ## A Little Bit About the Course
@@ -62,21 +62,13 @@ contribute to the community. Learning objectives include:
 
 
 ## How You’ll Know You Are Learning (Assessments)
-Every assignment in this class falls into one of 5 categories outlined below. Each assignment has a rubric to indicate the purpose, task, and criteria for the assignment.
+Each assignment has a rubric to indicate the purpose, task, and criteria for the assignment. They are grouped into several categories summarized below. Details of how the assignments map onto course letter grades is presented in grading.md. Alignment to the learning objectives is shown in the individual rubrics.
 
 The 5 assignment categories:
-1. Labs - there is a lab section for this course and every student is expected to enroll and complete the lab assignments. The definintion of "lab" is loose as the assignments performed in the lab sections vary. The goal is for all of this work to be completable within the class lab period.
-2. "Read" and Review - every week supplemental material will be posted to enhance the in class activities. This is not just reading but can also include watching short videos. A short review of the key points is then submitted as the assignment deliverable.
-3. Case Study Extensions - During the semesters case studies will be presented. This assignment type involves going beyond the initial parameter of the case study and exploring some of the more advanced points.
-4. "Look ahead" - These assignments are designed to allow students to advance their mastery of topics further. The incorperate material from course typically taken by 2nd and 3rd year students.
-5. Final Essay - This assignment is the students opportunity to synthesize the semester and show mastery of the primary learning objective "define data science". The higher bundles require a more complex essay which includes a discussion of personal career paths in data science and ultimately discussing next steps and the future of data science.
-
-## Tech Stack (Course Delivery Tools)
-There are several technological tools used in this class:
-
-* email: Official communication from UVA is sent via the class email
-* canvas: The offical Learning Management System for this course is canvas, all assignments are managed through canvas **including lab assignments**.
-* discord: The official-unoffical course chat channel **[Discord Invite Click](https://discord.gg/PGaPcMHp)** 
+1. Project Milestones - These assignments describe milestones in the project cycle and help guide the student through the process of working a project from start to finish.
+3. Critiques - These assignments are about providing critique to others and to yourself.
+4. Case Studies - These assignments are about studying how to present your projects in a way in which someone else could pick it up and study it.
+5. Reflection - These assignments provide space for further reflection and investigation on items that you find interesting but do not necessarially have time to work on during your project.
 
 ## Materials That Will Aid in Your Learning: 
 
