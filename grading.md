@@ -23,13 +23,18 @@ The 5 assignment categories:
 ## Bundles
 The following table summarizes the assignmenmts required to "meet spec" to earn certain letter grades.
 
-|Code|Assignment Type|#|C|B|A|
-|--|--|--|--|--|--|
-|LABS|Labs|13|12|12|12|
-|READ|"Read" & Review|14|--|12|12|
-|CASE|Case Study Extension|4|--|1|2|
-|LOOK|Look Ahead|4|--|1|2|
-|ESSY|Final Essay Parts|3|1|2|3|
+|Assignment |C|B|A|
+|--|--|--|--|
+|(MI 1) Create Hypothesis and Model Plan|3|3|3|
+|(MI 2) Establish Data Set and Create Project Plan|3|3|3|
+|(MI 3) Create Pipeline and Perform Analysis|3|3|3|
+|(MI 4) Prepare Results for presentation|3|3|3|
+|(PR 1) Present Results (oral)|1|1|1|
+|(CC 1) Constructive Critique of Others||3|3|
+|(CC 2) Constructive Critique of Self||3|3|
+|(IR 1) Intangible Reflection Slide||3|3|
+|(CS 1) Case-study: review & reflection|||2|
+|(CS 2) Case-study: produce (manuscript)|||1|
 
 ## Flexibility Provisions
 1. Labs: There is a make up lab week at the end of the term where students can complete a lab they were unable to complete.
