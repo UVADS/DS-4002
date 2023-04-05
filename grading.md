@@ -35,9 +35,3 @@ The following table summarizes the assignmenmts required to "meet spec" to earn 
 |(IR 1) Intangible Reflection Slide||3|3|
 |(CS 1) Case-study: review & reflection|||2|
 |(CS 2) Case-study: produce (manuscript)|||1|
-
-## Flexibility Provisions
-1. Labs: There is a make up lab week at the end of the term where students can complete a lab they were unable to complete.
-2. Non-labs: For each of the non-lab assignments there are 2 more assignments given than are required for the A bundle. No assignment is essential.
-3. Resubmission: After visiting office hours to discuss an assignment that "did not meet spec yet" resubmission may be allowed.
-4. Final Essay: The intention is for the students to bring ideas to the professors for help developing and that comments will be given on the essay if submitted more than one week prior to the due date.
