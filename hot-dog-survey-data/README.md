@@ -1,8 +1,8 @@
 # Hot Dog Survey Data
 
 ## Data Sets
-| term | file | responses |
-|------|------|-----------|
-| asdf | asdf | asdfasdfa |
-| asdf | asdf | asdfasdfa |
+| term | file | format | # responses |
+|------|------|--------|---|
+| asdf | asdf | csv | asdfasdfa |
+| asdf | asdf | csv |asdfasdfa |
 
