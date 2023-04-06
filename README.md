@@ -1,4 +1,4 @@
-# DS 4002: Data Science Project Course
+# DS 4002: Data Science Project Course Syllabus
 
 Your Foundations of Data Science Instructor:
 
