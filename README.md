@@ -39,6 +39,8 @@ small groups to work together on three projects throughout the semester. Groups 
 assigned after the first two weeks of class (aka the fundamental training period, aka by 
 Feb 7)
 
+## What students have said...
+> This was super cool to me because before this project, I had never worked with image data before and didn’t realize it was so readily available and so easy to work with. 
 
 ## What you’ll learn along the way
 Data Science is a broad, elusive, and dynamic field best learned via hands-on experience. 
