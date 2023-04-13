@@ -42,6 +42,10 @@ Feb 7)
 ## What students have said...
 > This was super cool to me because before this project, I had never worked with image data before and didn’t realize it was so readily available and so easy to work with. 
 
+> I am very nervous about the workforce, what if I am not good enough or don’t know enough? Gaining more knowledge on different types of models is helping me ease that anxiety.
+
+> There was a lot of communication faults from all of us. When we are in the industry, these issues don’t just slide. In a classroom, where we are here to learn, This is the best time to work on teamwork. Although this is can be uncomfortable let’s not worry make mistakes and focus on growing from those mistakes.
+
 ## What you’ll learn along the way
 Data Science is a broad, elusive, and dynamic field best learned via hands-on experience. 
 Topics in this course are selected to reinforce this perspective and help students understand 
