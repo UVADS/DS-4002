@@ -3,7 +3,7 @@ lorem ipsum dolor sit
 
 # Course Description / A little bit about this course
 
-# Image like one below
+# Sketch of our semester
 ![](https://github.com/UVADS/DS-4002/blob/fall-2023/banner-art-ds4002.png)
 create the image from a collage of last term's work
 
