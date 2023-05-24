@@ -4,7 +4,7 @@ lorem ipsum dolor sit
 # Course Description / A little bit about this course
 
 # Image like one below
-![](https://github.com/UVADS/DS1001/blob/master/images/ds-1001-collage.png)
+![](https://github.com/UVADS/DS-4002/blob/fall-2023/banner-art-ds4002.png)
 create the image from a collage of last term's work
 
 # [inherit from school] brief jedi and link to school repo
