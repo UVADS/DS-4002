@@ -62,7 +62,7 @@ The details for this course can be found here: [link](https://github.com/UVADS/D
 
 tbd: I don't know my fall conference schedule or TA assignment yet
 
-# Materials see (Canvas)[https://canvas.its.virginia.edu/courses/72836]
+# Materials see [Canvas](https://canvas.its.virginia.edu/courses/72836)
 
 # Polices and Logistics
 tbd: this comes from my school, we are workin on a  new plan to build continuity across our curriculum, stay tuned. n.b. the JEDI parts are above the fold, all the rest at the end
