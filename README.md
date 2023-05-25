@@ -15,7 +15,7 @@ In DS 4002 we will tackle all of these challenges together. We will go boldly, m
 This class is structured around three repetitions of a data science project workflow but with a different constraint on the data every time so that no two projects are alike. You will work in groups and everyone will have the challenge of leading their group for a project cycle. Along the way we will conduct self-assessments and work on individual development plans. The class begins by going over fundamental moves of data science group projects and transforms into a flipped environment where the majority of class time is for group work. The final assignment for the course is an individual case study expression of one project you worked on and is a great way to show off what you are capable of to that perspective employer. 
 
 ## Statment on JEDI [inherited from school of data science]
-lorem ipsum dolor sit
+tbd: this comes from my school, we are workin on a  new plan to build continuity across our curriculum, stay tuned. n.b. the JEDI parts are above the fold, all the rest at the end
 
 ## A sketch of our semester
 ![](https://github.com/UVADS/DS-4002/blob/fall-2023/banner-art-ds4002.png)
@@ -65,6 +65,6 @@ tbd: I don't know my fall conference schedule or TA assignment yet
 # Materials see (Canvas)[https://canvas.its.virginia.edu/courses/72836]
 
 # Polices and Logistics
-tbd: this comes from my school, we are workin on a  new plan to build continuity across our curriculum, stay tuned. n.b. the JEDI parts are above the fold
+tbd: this comes from my school, we are workin on a  new plan to build continuity across our curriculum, stay tuned. n.b. the JEDI parts are above the fold, all the rest at the end
 
 
