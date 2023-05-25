@@ -3,6 +3,14 @@
 ## Instructor information
 
 ## Course Description / A little bit about this course
+Hello there, have you ever … 
+* ... been part of a group project that was a spectacular failure? 
+* ... struggled to explain a data informed insight to a general audience? 
+* ... failed to appropriately address bias in a data informed project? 
+
+In DS 4002 we will tackle all of these challenges together. We will go boldly, make mistakes, and learn from those mistakes. 
+
+This class is structured around three repetitions of a data science project workflow but with a different constraint on the data every time so that no two projects are alike. You will work in groups and everyone will have the challenge of leading their group for a project cycle. Along the way we will conduct self-assessments and work on individual development plans. The class begins by going over fundamental moves of data science group projects and transforms into a flipped environment where the majority of class time is for group work. The final assignment for the course is an individual case study expression of one project you worked on and is a great way to show off what you are capable of to that perspective employer. 
 
 ## Statment on JEDI [inherited from school of data science]
 
