@@ -42,7 +42,7 @@ As a **group** we will all:
 2. Student created Team Member Learning Objective #2 
 3. Student created Team Member Learning Objective #3
 
-*N.B. If this seems like a lot of objectives ... you're not wrong. You are going to learn and change a lot in this course. But The reason for 3 of each type is because we do 3 repititions of the project cycle. Each Cycle you will pick 1 Data Science objective to learn and 1 Team Member objective to learn
+**N.B.** *If this seems like a lot of objectives ... you're not wrong. You are going to learn and change a lot in this course. But The reason for 3 of each type is because we do 3 repititions of the project cycle. Each Cycle you will pick 1 Data Science objective to learn and 1 Team Member objective to learn*
 
 ## Assessment / How you'll know you're learning
 In this class the professor assigns assessments that are formative in nature. Each one is crafted to help focus your attention, perform, and reflect, with the aim of growing. There are three major categories of assessments:
