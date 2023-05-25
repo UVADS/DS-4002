@@ -39,14 +39,12 @@ As a **group** we will all:
 2. Student created Data Science Learning Objective #2 
 3. Student created Data Science Learning Objective #3
 
-
-
 ## Assessment / How you'll know you're learning
-Assessment briefing here
+In this class the professor assigns assessments that are formative in nature. Each one is crafted to help focus your attention, perform, and reflect, with the aim of growing. There are three major categories of assessments:
 
-1. Group Project Milestones - 3-5 sentences
-2. Self-Assessments - 3-5 sentences
-3. Case Study Work - 3-5 sentences
+1. Group Project Milestones - These milestones are related to steps in the Data Science Pipeline (e.g. establish your data set). As a result they are all different. For each a rubric is provided to guide your work. The rubrics are not set in stone, they are where the conversation begins, the specifics of your projects will pull the rubrics to where they need to be. These milestones are completed by your group and consitute the "C-Bundle" (details on grading are below).
+2. Self-Assessments - The next level of work in this course focuses on your ability to assess yourself. Teammates and the professor will help, but ultimately it is your responsibility to take responsibility for your performance. This is very challenging. Many students over-estimate themselves **AND** many students under-estimate themselves. Cutting through the many factors that make up your performance requires practice, and we strive to make this course a place where that can happen. These assignments constitute the "B-Bundle".
+3. Case Study Work - The final type of assignment involves transforming your work to reach a broad audience. In your case study work you will work to bring one of your projects from the term into a format that a wide audience can understand. (This course is 4000, so we will broaden to 2nd year's at UVA). You will read and reflect on Case Studies produced in this class in prior terms and your final assignment of the term will be to create your own Case Study. These assignments consitute the "A-Bundle".
 
 ### Evaluation / Because the University makes us use letter grades 
 link to doc on grading, a la [link](https://github.com/UVADS/DS-4002/blob/main/grading.md)
