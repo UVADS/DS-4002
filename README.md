@@ -26,7 +26,20 @@ lorem ipsum dolor sit
 > There was a lot of communication faults from all of us. When we are in the industry, these issues don’t just slide. In a classroom, where we are here to learn, This is the best time to work on teamwork. Although this is can be uncomfortable let’s not worry make mistakes and focus on growing from those mistakes.
 
 ## Course Objectives / What you'll learn along the way 
-learning objectives go here
+Data Science is a broad, elusive, and dynamic field best learned via hands-on experience. Topics in this course are selected to reinforce this perspective and help students understand the field’s core ideas and what is demanded from practicing data scientists. An ideal outcome would be for students to gain a perspective on the breadth of the field of data science, understand important tools and environments, and develop skills necessary to contribute to the community. Learning objectives include:
+
+As a group we will all:
+1. List, define, and explain the stages of the data science pipeline 
+2. Identify your strengths and weaknesses as a team member 
+3. Evaluate group performance 
+4. Transform your findings into a Case Study for broad accessibility   
+
+Individually you will select items to improve on, e.g. "I want to learn how to train a convolutional neural network (CNN)":
+1. Student created Data Science Learning Objective #1 
+2. Student created Data Science Learning Objective #2 
+3. Student created Data Science Learning Objective #3
+
+
 
 ## Assessment / How you'll know you're learning
 Assessment briefing here
