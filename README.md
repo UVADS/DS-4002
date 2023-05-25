@@ -47,10 +47,12 @@ In this class the professor assigns assessments that are formative in nature. Ea
 3. Case Study Work - The final type of assignment involves transforming your work to reach a broad audience. In your case study work you will work to bring one of your projects from the term into a format that a wide audience can understand. (This course is 4000, so we will broaden to 2nd year's at UVA). You will read and reflect on Case Studies produced in this class in prior terms and your final assignment of the term will be to create your own Case Study. These assignments consitute the "A-Bundle".
 
 ### Evaluation / Because the University makes us use letter grades 
-link to doc on grading, a la [link](https://github.com/UVADS/DS-4002/blob/main/grading.md)
+This course uses a grading system that is considered non-traditional in the United States. It is called Specifications Grading. If you have not used this system before it can be challenging to wrap your head around. We will spend time in class and in office hours getting on the same page. Please trust me that once we get in sync it can be quite liberating. If you are curious about the theory of the system see _Specifications Grading_ By Linda Nilson and check out the information presented by the Center For Teaching Excellence at UVA (link)[https://cte.virginia.edu/blog/2020/12/04/alternative-grading-practices-support-both-equity-and-learning] 
+
+The details for this course can be found here: [link](https://github.com/UVADS/DS-4002/blob/main/grading.md)
 
 # Calendar / When things are gonna happen
-# Materials
+# Materials see (Canvas)[https://canvas.its.virginia.edu/courses/72836]
 # Polices and Logistics
 
 
