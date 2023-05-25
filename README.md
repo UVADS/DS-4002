@@ -2,6 +2,8 @@
 
 ## Instructor information
 
+tbd: i don't have the details to set things like office hours yet etc.
+
 ## Course Description / A little bit about this course
 Hello there, have you ever … 
 * ... been part of a group project that was a spectacular failure? 
@@ -57,7 +59,12 @@ This course uses a grading system that is considered non-traditional in the Unit
 The details for this course can be found here: [link](https://github.com/UVADS/DS-4002/blob/main/grading.md)
 
 # Calendar / When things are gonna happen
+
+tbd: I don't know my fall conference schedule or TA assignment yet
+
 # Materials see (Canvas)[https://canvas.its.virginia.edu/courses/72836]
+
 # Polices and Logistics
+tbd: this comes from my school, we are workin on a  new plan to build continuity across our curriculum, stay tuned. n.b. the JEDI parts are above the fold
 
 
