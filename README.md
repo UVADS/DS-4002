@@ -5,7 +5,7 @@
 
 ... make the hard choices.*
 
-**Compassion** &nbsp;&nbsp; Selflessness   Commitment    Resilience  Work Ethic
+**Compassion** &nbsp;&nbsp; **Selflessness** &nbsp;&nbsp;   **Commitment** &nbsp;&nbsp;   **Resilience** &nbsp;&nbsp;  **Work Ethic**
 
 
 ## Coach information
