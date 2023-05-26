@@ -1,9 +1,11 @@
 # Syllabus DS 4002: Data Science Project Course
 *Create a positive and challenging environment ...
+
 ... make a commitment to each other and ourselves ...
+
 ... make the hard choices.*
 
-**Compassion    Selflessness    Commitment    Resilience    Work Ethic**
+|**Compassion |   Selflessness   | Commitment   | Resilience  |  Work Ethic**|
 
 
 ## Coach information
