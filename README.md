@@ -1,8 +1,12 @@
 # Syllabus DS 4002: Data Science Project Course
 
-## Instructor information
+## Coach information
 
-tbd: i don't have the details to set things like office hours yet etc.
+In this class your professor is actually your coach:
+
+    * Professor Peter Alonzi (lpa2a)
+    * Class Location: ???
+    * Office Hours: Elson 185A, time tbd
 
 ## Course Description / A little bit about this course
 Hello there, have you ever … 
