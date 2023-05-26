@@ -1,4 +1,10 @@
 # Syllabus DS 4002: Data Science Project Course
+*Create a positive and challenging environment ...
+... make a commitment to each other and ourselves ...
+... make the hard choices.*
+
+**Compassion    Selflessness    Commitment    Resilience    Work Ethic**
+
 
 ## Coach information
 
@@ -70,5 +76,7 @@ tbd: I don't know my fall conference schedule or TA assignment yet
 
 # Polices and Logistics
 tbd: this comes from my school, we are workin on a  new plan to build continuity across our curriculum, stay tuned. n.b. the JEDI parts are above the fold, all the rest at the end
+
+Acknowledgements: Vision and Values coursety of USA Rugby
 
 
