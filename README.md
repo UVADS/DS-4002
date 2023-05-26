@@ -16,6 +16,8 @@ In this class your professor is actually your coach:
     * Class Location: Time = MWF 13:00-13:50; Space = Dell 1, room 105
     * Office Hours: Elson 185A, time tbd
 
+![](https://github.com/UVADS/DS-4002/blob/fall-2023/goats.png)
+
 ## Course Description / A little bit about this course
 Hello there, have you ever … 
 * ... been part of a group project that was a spectacular failure? 
