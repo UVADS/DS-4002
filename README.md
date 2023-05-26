@@ -5,7 +5,7 @@
 In this class your professor is actually your coach:
 
     * Professor Peter Alonzi (lpa2a)
-    * Class Location: ???
+    * Class Location: Time = MWF 13:00-13:50; Space = Dell 1, room 105
     * Office Hours: Elson 185A, time tbd
 
 ## Course Description / A little bit about this course
