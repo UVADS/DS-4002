@@ -59,6 +59,7 @@ contribute to the community. Learning objectives include:
   * establish data sets relevant to your hypothesis/model
   * create a functioning data science pipeline
   * prepare findings for presentation to your peers
+  * and more objectives that you want to add (e.g. training neural networks)
 * Social
   * Collaborate with peers to implement your project plan
   * Provide constructive criticism
