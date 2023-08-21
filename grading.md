@@ -34,6 +34,7 @@ The following table summarizes the assignmenmts required to "meet spec" to earn 
 |(CS 1) Case-study: review & reflection|||2|
 |(CS 2) Case-study: produce (manuscript)|||1|
 
+### Alternate Final Assignments
 There is an alternative to completing the 3 case study assignments for the A bundle. You may participate in a data project challenge. Doing so will count for all CS 1 and CS 2 assignments. The two challenges for this term are:
 
 1. LMI [Data Entrepreneurship Challenge](https://www.lmi.org/challenge) - register by 9/29 (a Friday)
