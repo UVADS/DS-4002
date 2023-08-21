@@ -95,12 +95,12 @@ There are 4 assignment categories:
 | Week 8  | 10/9,11,13| 2  | 2 	| 	 | MI 2	|
 | Week 9  | 10/16,18,20| 2	|  3	| 	  |MI 3|
 | Week 10 | 10/23,25,27|2	| 4	|Presentation Week	  | MI 4	|
-| Week 11 | 10/30,11/1,3| 3 | 1 	| Begin Project3  | MI1  |
-| Week 12 |	11/6,8,10|  3  |	 2 | Begin Project 3 |	MI2|
+| Week 11 | 10/30,11/1,3| 3 | 1 	| Begin Project 3  | MI1  |
+| Week 12 |	11/6,8,10|  3  |	 2 | |	MI2|
 | Week 13 | 11/13,15,17| 3 |  3	|   | MI3  |
 | Week 14 | 11/20 (no wed/fri)| 3 |   |Thanksgiving |   |
 | Week 15 | 11/27,29,1| 3	| 	4| Presentation Week  | MI4  |
-| Week 16 | 12,4| 	|  	| Last day for comments 	|  	|
+| Week 16 | 12/4| 	|  	| Last day for comments 	|  	|
 | Examinations | 12/11 | | | Last day to submit| |
 
 
