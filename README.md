@@ -36,7 +36,7 @@ advisory capacities for the student teams.
 The class meets in-person; attendance is compulsory. If circumstances arise that preclude 
 attendance at a particular session, students are to notify group members and the instructor 
 as soon as possible so that appropriate accommodations can be arranged (for example a 
-death in the family). Group work outside of class is expected. Students will be assigned to 
+death in the family). Group work outside of class is expected (on average project teams meet once a week outside of class). Students will be assigned to 
 small groups to work together on three projects throughout the semester. Groups will be 
 assigned after the first two weeks of class (aka the fundamental training period, aka by 
 Feb 7)
