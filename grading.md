@@ -15,8 +15,8 @@ Each assignment has a rubric to indicate the purpose, task, and criteria for the
 The 5 assignment categories:
 1. Project Milestones - These assignments describe milestones in the project cycle and help guide the student through the process of working a project from start to finish.
 2. Critiques - These assignments are about providing critique to others and to yourself.
-3. Case Studies - These assignments are about studying how to present your projects in a way in which someone else could pick it up and study it.
-4. Documentation - These assignments serve two purposes. The first is to practice communicating the technical details of your work by documenting your code. The second is to highlight the contributions you made to each project cycle.
+3. Documentation - These assignments serve two purposes. The first is to practice communicating the technical details of your work by documenting your code. The second is to highlight the contributions you made to each project cycle.
+4. Case Studies - These assignments are about studying how to present your projects in a way in which someone else could pick it up and study it.
 
 ## Bundles
 The following table summarizes the assignmenmts required to "meet spec" to earn certain letter grades.
@@ -33,3 +33,10 @@ The following table summarizes the assignmenmts required to "meet spec" to earn 
 |(ID 1) Individual Documentation||3|3|
 |(CS 1) Case-study: review & reflection|||2|
 |(CS 2) Case-study: produce (manuscript)|||1|
+
+There is an alternative to completing the 3 case study assignments for the A bundle. You may participate in a data project challenge. Doing so will count for all CS 1 and CS 2 assignments. The two challenges for this term are:
+
+1. LMI [Data Entrepreneurship Challenge](https://www.lmi.org/challenge) - register by 9/29 (a Friday)
+2. Purdue School of Business [Data 4 Good](https://purdue.university/3rHKMpP) - register by 9/17 (a Friday)
+
+Your team from DS 4002 may do a competition together but you do not have to. An individual student may enter the competition with others, including students not in DS 4002, and it will still count.
