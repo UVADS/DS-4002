@@ -14,9 +14,9 @@ Each assignment has a rubric to indicate the purpose, task, and criteria for the
 
 The 5 assignment categories:
 1. Project Milestones - These assignments describe milestones in the project cycle and help guide the student through the process of working a project from start to finish.
-3. Critiques - These assignments are about providing critique to others and to yourself.
-4. Case Studies - These assignments are about studying how to present your projects in a way in which someone else could pick it up and study it.
-5. Reflection - These assignments provide space for further reflection and investigation on items that you find interesting but do not necessarially have time to work on during your project.
+2. Critiques - These assignments are about providing critique to others and to yourself.
+3. Case Studies - These assignments are about studying how to present your projects in a way in which someone else could pick it up and study it.
+4. Documentation - These assignments serve two purposes. The first is to practice communicating the technical details of your work by documenting your code. The second is to highlight the contributions you made to each project cycle.
 
 ## Bundles
 The following table summarizes the assignmenmts required to "meet spec" to earn certain letter grades.
@@ -30,6 +30,6 @@ The following table summarizes the assignmenmts required to "meet spec" to earn 
 |(PR 1) Present Results (oral)|1|1|1|
 |(CC 1) Constructive Critique of Others||3|3|
 |(CC 2) Constructive Critique of Self||3|3|
-|(IR 1) Intangible Reflection Slide||3|3|
+|(ID 1) Individual Documentation||3|3|
 |(CS 1) Case-study: review & reflection|||2|
 |(CS 2) Case-study: produce (manuscript)|||1|
