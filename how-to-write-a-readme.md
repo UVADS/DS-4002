@@ -1,11 +1,10 @@
-# How to readme
-This file gives instruction and examples on writing readme files for githubn respositories.
+# How to write a readme
+This file gives instruction and examples on writing readme files for github respositories.
 
 ## examples of well-written READMEs:
 * https://github.com/bcicen/slackcat
 * https://github.com/gsamokovarov/jump
 * https://github.com/rafaelrinaldi/whereami
-
 
 ## general template
 
