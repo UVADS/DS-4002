@@ -85,23 +85,23 @@ There are 4 assignment categories:
 
 | Week 	| Date|Project # 	|Project Cycle	| Plan 	|Milestone	|
 |:---:	|:---:|:---:	|:---:	|:---:	|:---:	|
-| Week 1  | 1/19 (Thr only)|0	|  	   | 	Course Philosophy    |	      |
-| Week 2  | 1/24,26,27|0  |   | DS proejct fundamentals | |
-| Week 3  |	1/31,2/2,3|0  | 	|DS proejct fundamentals | 	|
-| Week 4  |	2/7,9,10|1|	1 |  Begin Project 1 | MI1	|
-| Week 5  | 2/14,16,17|1 | 2 |    | MI2   | 
-| Week 6	 | 2/21,23,24|1	  | 3 |   | MI3  |
-| Week 7  | 2/28,3/2,3|1   | 4	|   Presentation Week	|MI4 |
-| Week 8  | Spring Break (3/4-12)|                    |  	| 	 | 	|
-| Week 9  | 3/14,16,17| 2	|  1	| Begin Project 2	  |MI 1|
-| Week 10 | 3/21,23,24|2	| 2-3	|	  | MI 2/3	|
-| Week 11 | 3/28,30,31| 2 | 4 	| Presentation Week  | MI4  |
-| Week 12 |	4/4,6,7|  3  |	 1 | Begin Project 3 |	MI1|
-| Week 13 | 4/11,13,14| 3 |  2	|   | MI2  |
-| Week 14 | 4/18,20,21| 3 |   3| |  MI3 |
-| Week 15 | 4/25,27,28| 3	| 	4| Presentation Week  | MI4  |
-| Week 16 | 5/2 (Tue only)| --	|  	|  	|  	|
-| Examinations | 5/4-5/12 | | | | |
+| Week 1  | 8/23,25|0	|  	   | 	Course Philosophy    |	      |
+| Week 2  | 8/28,30,9/1|0  |   | DS project fundamentals | |
+| Week 3  |	9/6,8 (no Monday class)|1  | 1	|Begin Project 1 | MI1	|
+| Week 4  |	9/11,13,15|1|	2 |   | MI2	|
+| Week 5  | 9/18,20,22|1 | 3 |    | MI3   | 
+| Week 6	 | 9/25,27,29|1	  | 4 | Presentation Week  | MI4  |
+| Week 7  | 10/4,6 (Mon reading day)|2   | 1	|   Begin Project 2	|MI1 |
+| Week 8  | 10/9,11,13| 2  | 2 	| 	 | MI 2	|
+| Week 9  | 10/16,18,20| 2	|  3	| 	  |MI 3|
+| Week 10 | 10/23,25,27|2	| 4	|Presentation Week	  | MI 4	|
+| Week 11 | 10/30,11/1,3| 3 | 1 	| Begin Project3  | MI1  |
+| Week 12 |	11/6,8,10|  3  |	 2 | Begin Project 3 |	MI2|
+| Week 13 | 11/13,15,17| 3 |  3	|   | MI3  |
+| Week 14 | 11/20 (no wed/fri)| 3 |   |Thanksgiving |   |
+| Week 15 | 11/27,29,1| 3	| 	4| Presentation Week  | MI4  |
+| Week 16 | 12,4| 	|  	| Last day for comments 	|  	|
+| Examinations | 12/11 | | | Last day to submit| |
 
 
 ## A few Policies that will Govern the Class
