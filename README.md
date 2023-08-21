@@ -1,17 +1,17 @@
 # Syllabus DS 4002: Data Science Project Course
 
 Your Foundations of Data Science Instructor:
-
-    * Professor: Peter Alonzi (lpa2a)
-    * TA: Daiqing Qi
-    * Class Location: New Cabell Hall 309
+  * Professor: Peter Alonzi (lpa2a)
+  * TA: Harsh Anand (yyf8rj)
+  * Class Location: Dell 1, Room 105, MWF 13:00-13:50
 
 Office Hours:
-  * Alonzi: 10-11,1330-1430 on Tuesdays and Thursdays, Elson 185A, or by appointment
+  * Alonzi: 11:00-12:00 on Wednesdays (and Tue/Thr when the Deans don't schedule meetings), Elson 185A, and by appointment
+  * Anand: tbd
 
 Subject Area and Catalog Number: Data Science, DS 4002
 
-Year, Term and Time: 2023, Spring, 08:00-09:15 Tu & Th
+Year, Term and Time: 2023, Fall, 13:00-13:50 Mo,We,Fri
 
 Class Title: Data Science Project Course
 
