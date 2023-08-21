@@ -71,13 +71,15 @@ contribute to the community. Learning objectives include:
 
 
 ## How You’ll Know You Are Learning (Assessments)
-Each assignment has a rubric to indicate the purpose, task, and criteria for the assignment. They are grouped into several categories summarized below. Details of how the assignments map onto course letter grades is presented in [Grading Policy Summary](grading.md). Alignment to the learning objectives is shown in the individual rubrics. 
+This class uses the Specifications grading system. Like a more traditional system the course is broken up into assignments but they are all graded on a single-level rubric system. For many students it is an unfamiliar system and requires a little adjustment but once you get used to it you will really enjoy the benefits.
 
-The 5 assignment categories:
+Details are here: [Grading Policy Summary](grading.md). Alignment to the learning objectives is shown in the individual rubrics. 
+
+There are 4 assignment categories:
 1. Project Milestones - These assignments describe milestones in the project cycle and help guide the student through the process of working a project from start to finish.
-3. Critiques - These assignments are about providing critique to others and to yourself.
+2. Critiques - These assignments are about providing critique to others and to yourself.
+3. Documentation - These assignments serve two purposes. The first is to practice communicating the technical details of your work by documenting your code. The second is to highlight the contributions you made to each project cycle.
 4. Case Studies - These assignments are about studying how to present your projects in a way in which someone else could pick it up and study it.
-5. Reflection - These assignments provide space for further reflection and investigation on items that you find interesting but do not necessarially have time to work on during your project.
 
 ## Schedule of Topics 
 
