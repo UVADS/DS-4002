@@ -1,13 +1,11 @@
 # Syllabus DS 4002: Data Science Project Course
 
 Your Foundations of Data Science Instructor:
-
     * Professor: Peter Alonzi (lpa2a)
     * TA: Harsh Anand (yyf8rj)
     * Class Location: Dell 1, Room 105, MWF 13:00-13:50
 
 Office Hours:
-
     * Alonzi: 11:00-12:00 on Wednesdays (and Tue/Thr when the Deans don't schedule meetings), Elson 185A, and by appointment
     * Anand: tbd
 
