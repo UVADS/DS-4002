@@ -1,3 +1,21 @@
+# This is a draft for the CTE CDI, it is not the syllabus for the class. please go to https://github.com/UVADS/DS-4002/blob/main/README.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Syllabus DS 4002: Data Science Project Course
 *Create a positive and challenging environment*
 
