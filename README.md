@@ -39,7 +39,7 @@ as soon as possible so that appropriate accommodations can be arranged (for exam
 death in the family). Group work outside of class is expected (on average project teams meet once a week outside of class). Students will be assigned to 
 small groups to work together on three projects throughout the semester. Groups will be 
 assigned after the first two weeks of class (aka the fundamental training period, aka by 
-Feb 7)
+Sep 6)
 
 ## What students have said...
 > This was super cool to me because before this project, I had never worked with image data before and didn’t realize it was so readily available and so easy to work with. 
