@@ -13,8 +13,6 @@ See file hotdog.csv
 ### Chart
 <img width="402" alt="Screen Shot 2023-08-30 at 1 46 19 PM" src="https://github.com/Shreya-Naga/DS-4002/assets/104798728/73f036f3-3788-4adb-b895-3ae54c642c20">
 
-
-Note: when participants filled out the survey, there was an optional short-response question titled "Gimme a hot take". This feature was removed due to spicy comments
 ## Data Sets
 | term | file | format | dictionary | # responses |
 |------|------|--------|-|--|
