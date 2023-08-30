@@ -1,0 +1,25 @@
+---
+title: "DS4002 - Hotdog"
+author: "Brizhay Davis"
+date: "2023-08-30"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+library(ggplot2)
+setwd("/Users/breedavis/Downloads/")
+hotdog <- read.csv("Hot Dog Debate - Form Responses 1.csv")
+head(hotdog)
+
+ggplot(hotdog, aes(x=as.factor(Do.you.like.hot.dogs.), fill=as.factor(Is.a.hot.dog.a.sandwich))) + geom_bar(position = "fill") + scale_y_continuous(labels = scales::percent) + xlab("Do You Like Hotdogs?") + ylab("Proportion of Answers") + scale_fill_manual(values = c("#0099CC","#000099") ,
+                       name="Is A Hot Dog A Sandwich?:",
+                       breaks=c("No", "Yes"),
+                       labels=c("No", "Yes"))
+```
+
+ 
