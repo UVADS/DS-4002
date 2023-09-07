@@ -12,7 +12,7 @@
 |------|------|--------|-|--|
 | Fall 2022 | [link](DS-4002-fa22-survey-results.xlsx) | xlsx | [link](fall-22-data-dictionary.md) | 195 |
 | Spring 2023 | [link](DS-4002-sp23-survey-results.csv) | csv | [link](spring-23-data-dictionary.md)| 225 |
-| Fall 2023 | [link](DS-4002-sp23-survey-results.csv) | csv | [link](spring-23-data-dictionary.md) | 176 |
+| Fall 2023 | [link](DS-4002-fa23-survey-results.csv) | csv | [link](fall-23-data-dictionary.md) | 176 |
 
 ### Chart
 <img width="402" alt="Screen Shot 2023-08-30 at 1 46 19 PM" src="https://github.com/Shreya-Naga/DS-4002/assets/104798728/73f036f3-3788-4adb-b895-3ae54c642c20">
