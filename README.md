@@ -2,18 +2,17 @@
 
 Your Foundations of Data Science Instructor:
 
-    * Professor: Peter Alonzi (lpa2a)
-    * TA: Harsh Anand (yyf8rj)
-    * Class Location: Dell 1, Room 105, MWF 13:00-13:50
+    * Instructors: Javier Rasero (mnr3kn) and Harsh Anand (yyf8rj)
+    * Class Location: Dell 1, Room 105, TT 12:30-13:45
 
 Office Hours:
 
-    * Alonzi: 11:00-12:00 on Wednesdays (and Tue/Thr when the Deans don't schedule meetings), Elson 185A, and by appointment
+    * Rasero: XX on XX, Elson 198, and by appointment. Or you can just drop by my office and see if I am available.
     * Anand: tbd
 
 Subject Area and Catalog Number: Data Science, DS 4002
 
-Year, Term and Time: 2023, Fall, 13:00-13:50 Mo,We,Fri
+Year, Term and Time: 2024, Spring, 12:30-13:45 Tuesdays and Thursdays
 
 Class Title: Data Science Project Course
 
@@ -79,29 +78,29 @@ There are 4 assignment categories:
 1. Project Milestones - These assignments describe milestones in the project cycle and help guide the student through the process of working a project from start to finish.
 2. Critiques - These assignments are about providing critique to others and to yourself.
 3. Documentation - These assignments serve two purposes. The first is to practice communicating the technical details of your work by documenting your code. The second is to highlight the contributions you made to each project cycle.
-4. Case Studies - These assignments are about studying how to present your projects in a way in which someone else could pick it up and study it.
+4. Case Studies - These assignments are about reproducing, reviewing and producing projects.
 
 ## Schedule of Topics 
 
 | Week 	| Date|Project # 	|Project Cycle	| Plan 	|Milestone	|
 |:---:	|:---:|:---:	|:---:	|:---:	|:---:	|
-| Week 1  | 8/23,25|0	|  	   | 	Course Philosophy    |	      |
-| Week 2  | 8/28,30,9/1|0  |   | DS project fundamentals | |
-| Week 3  |	9/6,8 (no Monday class)|1  | 1	|Begin Project 1 | MI1	|
-| Week 4  |	9/11,13,15|1|	2 |   | MI2	|
-| Week 5  | 9/18,20,22|1 | 3 |    | MI3   | 
-| Week 6	 | 9/25,27,29|1	  | 4 | Presentation Week  | MI4  |
-| Week 7  | 10/4,6 (Mon reading day)|2   | 1	|   Begin Project 2	|MI1 |
-| Week 8  | 10/9,11,13| 2  | 2 	| 	 | MI 2	|
-| Week 9  | 10/16,18,20| 2	|  3	| 	  |MI 3|
-| Week 10 | 10/23,25,27|2	| 4	|Presentation Week	  | MI 4	|
-| Week 11 | 10/30,11/1,3| 3 | 1 	| Begin Project 3  | MI1  |
-| Week 12 |	11/6,8,10|  3  |	 2 | |	MI2|
-| Week 13 | 11/13,15,17| 3 |  3	|   | MI3  |
-| Week 14 | 11/20 (no wed/fri)| 3 |   |Thanksgiving |   |
-| Week 15 | 11/27,29,1| 3	| 	4| Presentation Week  | MI4  |
-| Week 16 | 12/4| 	|  	| Last day for comments 	|  	|
-| Examinations | 12/11 | | | Last day to submit| |
+| Week 1  | 1/18 |0	|  	   | 	Course Philosophy    |	      |
+| Week 2  | 1/23, 1/25 |0  |   | DS project fundamentals | |
+| Week 3  | 1/30, 2/1 |1  | 1	|Begin Project 1 | MI1	|
+| Week 4  | 2/6, 4/6 |1|	2 |   | MI2	|
+| Week 5  | 2/13, 2/15 |1 | 3 |    | MI3   |
+| Week 6	 | 2/20, 2/22 |1	  | 4 | Presentation Week  | MI4  |
+| Week 7  | 2/27, 2/29 |2   | 1	|   Begin Project 2	|MI1 |
+| Week 8  | 3/5, 3/7 | 2 |  	| Spring Break | 	|
+| Week 9  | 3/12, 3/14 | 2	| 2	| 	  |MI2|
+| Week 10 | 3/19, 3/21 |2	| 3	|	  | MI3	|
+| Week 11 | 3/26, 3/28 | 2 | 4 | Presentation Week | MI4 |
+| Week 12 | 4/2, 4/4 |  3  |	1 | Begin Project 3 | MI1 |
+| Week 13 | 4/9, 4/11 | 3 | 2	|   | MI2 |
+| Week 14 | 4/16, 4/18 | 3 | 3 | | MI3 |
+| Week 15 | 4/23, 4/25 | 3	| 	4| Presentation Week  | MI4  |
+| Week 16 | 4/30, 5/2 | 	|  	| Case studies |  	|
+| Examinations | 5/9 | | | Last day to submit| |
 
 
 ## A few Policies that will Govern the Class
