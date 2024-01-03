@@ -10,35 +10,37 @@ Office Hours:
     * Rasero: XX on XX, Elson 198, and by appointment. Or you can just drop by my office and see if I am available.
     * Anand: tbd
 
-Subject Area and Catalog Number: Data Science, DS 4002
+**Subject Area and Catalog Number**: Data Science, DS 4002
 
-Year, Term and Time: 2024, Spring, 12:30-13:45 Tuesdays and Thursdays
+**Term** : Spring 2024
 
-Class Title: Data Science Project Course
+**Meeting times**:  12:30-13:45, Tuesdays and Thursdays
 
-Level: Undergraduate
+**Class Title**: Data Science Project Course
 
-Credit Type: Grade (A-F) using [Specifications Grading](https://app.cte.virginia.edu/events/cdi-2x-designing-equitable-grading-schemes)
+**Level**: Undergraduate
 
-LMS: This course uses UVACanvas (https://canvas.virginia.edu/)
+**Credit Type**: Grade (A-F) using [Specifications Grading](https://app.cte.virginia.edu/events/cdi-2x-designing-equitable-grading-schemes)
+
+**Learning Management System**: This course uses UVACanvas (https://canvas.virginia.edu/)
 <br>
 
-## A Little Bit About the Course
+## About the course
 The objective of this course is for students to gain experience working on data-driven 
 problems while developing the ability to critique their own work and the work of others 
 productively. The key element that separates this course from traditional courses is that it 
 is driven by student-led projects. Students will be asked to set the expectations for the 
 course, contribute to its tactical objectives, and provide critical feedback to peers. Aside 
 from providing datasets and infrastructure support, setting high-level project goals, and 
-offering mentorship and technical guidance, the instructor and TA will serve primarily in 
+offering mentorship and technical guidance, the instructors will serve primarily in 
 advisory capacities for the student teams.
+
 The class meets in-person; attendance is compulsory. If circumstances arise that preclude 
 attendance at a particular session, students are to notify group members and the instructor 
 as soon as possible so that appropriate accommodations can be arranged (for example a 
 death in the family). Group work outside of class is expected (on average project teams meet once a week outside of class). Students will be assigned to 
 small groups to work together on three projects throughout the semester. Groups will be 
-assigned after the first two weeks of class (aka the fundamental training period, aka by 
-Sep 6)
+assigned after the first two weeks of class (aka the fundamental training period)
 
 ## What students have said...
 > This was super cool to me because before this project, I had never worked with image data before and didn’t realize it was so readily available and so easy to work with. 
@@ -47,7 +49,7 @@ Sep 6)
 
 > There was a lot of communication faults from all of us. When we are in the industry, these issues don’t just slide. In a classroom, where we are here to learn, This is the best time to work on teamwork. Although this is can be uncomfortable let’s not worry make mistakes and focus on growing from those mistakes.
 
-## What you’ll learn along the way
+## What you will learn 
 Data Science is a broad, elusive, and dynamic field best learned via hands-on experience. 
 Topics in this course are selected to reinforce this perspective and help students understand 
 the field’s core ideas and what is demanded from practicing data scientists. An ideal 
