@@ -1,20 +1,20 @@
 # Syllabus DS 4002: Data Science Project Course
 
-Your Foundations of Data Science Instructor:
+**Instructors**: Javier Rasero (mnr3kn) and Harsh Anand (yyf8rj)
 
-    * Instructors: Javier Rasero (mnr3kn) and Harsh Anand (yyf8rj)
-    * Class Location: Dell 1, Room 105, TT 12:30-13:45
-
-Office Hours:
-
-    * Rasero: XX on XX, Elson 198, and by appointment. Or you can just drop by my office and see if I am available.
-    * Anand: tbd
+**Office Hours**:
+   - **Javier Rasero**:
+        - *Dates and times*: Wednesdays and Fridays, 2-4pm. Also by appointment or just by dropping by my office and checking if I am available.
+        - *Location*:  Elson 198 or via zoom (check out Canvas for the link)
+   - **Harsh Anand**: tbd
 
 **Subject Area and Catalog Number**: Data Science, DS 4002
 
 **Term** : Spring 2024
 
 **Meeting times**:  12:30-13:45, Tuesdays and Thursdays
+
+**Class Location**: Dell 1, Room 105
 
 **Class Title**: Data Science Project Course
 
