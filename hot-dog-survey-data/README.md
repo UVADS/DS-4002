@@ -2,6 +2,7 @@
 
 Tasks: 
 
-- In this README file, briefly describe the project. 
-- Create a separate markdown file as a data dictionary. Look at examples from last terms.
+- Analysis on if a Hotdog is a sandwich
+- Read in csv file of a survey on if UVA students believe a hotdog is a sandwich
+- Create visualizations and make interpretations
 
