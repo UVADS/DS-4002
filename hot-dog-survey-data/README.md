@@ -1,7 +1,4 @@
 # Hot Dog Survey Data
 
-Tasks: 
-
-- In this README file, briefly describe the project. 
-- Create a separate markdown file as a data dictionary. Look at examples from last terms.
+Looking through the internet there was a lot of discourse on whether or not a hot-dog is or is not a sandwich. We decided to poll students at UVA to determine if 1/3 of undergraduate students believe that a hotdog is a sandwich. These data will allow us to test this hypothesis.
 
