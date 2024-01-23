@@ -2,6 +2,5 @@
 
 Tasks: 
 
-- In this README file, briefly describe the project. 
-- Create a separate markdown file as a data dictionary. Look at examples from last terms.
 
+This is a study exploring whether undergradutes at UVA believe hotdogs are sandwiches. We conducted a survery via google forms and sent it to current UVA students to get their responses. 
