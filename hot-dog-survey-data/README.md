@@ -1,3 +1,6 @@
+### Project Description
+We will be analyzing survey results to determine whether a majority of UVA Students believe a Hot Dog is a sandwich. Our data allows potential further refinement of the question, including if a specific group of students believe this (eg. Comm students, graduate students).
+
 ### Data Dictionary
 | Column| Description| Potential Reponses|                   
 |-------|------------|-------------------|
