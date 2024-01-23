@@ -1,0 +1,13 @@
+### Data File
+See file DS-4002-Survey-Results.csv
+
+### Data Dictionary
+| Column| Description| Potential Reponses|                   
+|-------|------------|-------------------|
+| Timestamp | indicates the month/day/year and hour, minute, and second that the responder completed the survey |month/day/year, hour:minute:second|
+| Is a hotdog a sandwich?| Position that the participant takes| yes/no |
+| Reasoning| participant's explanation of their position| 
+| Education status| What level of education the participant has attained|
+| Year| What year of undergrad the participant is in |
+| Field of Study| Major of the participant |
+| Birthplace| Where the participant was born |
