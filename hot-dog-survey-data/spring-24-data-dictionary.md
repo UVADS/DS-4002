@@ -12,5 +12,3 @@ See file DS-4002-Survey-Results.csv
 | Major at UVA | Answers what current major is if applicable | Any string for major, empty for not applicable |
 | Year at UVA | Answers year at UVA | First, Second, Third, Fourth, empty for not applicable |
 | Location of birth | Answers where the responder was born | Any location |
-
-Note: when participants filled out the survey, there was an optional short-response question titled "Gimme a hot take". This feature was removed due to spicy comments
