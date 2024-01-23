@@ -1,5 +1,5 @@
 | Column | Description |
-| --- | --- | --- |
+| --- | --- |
 | Timestamp | Time at which the respondent subvmitted the survey form. |
 | Sandwich? | Does the respondent think a hto dog is a sandwich? |
 | Rationale | Respondent's reasoning for answer to sandwich question. |
