@@ -1,0 +1,15 @@
+
+### Data File
+See file DS-4002-Survey-Results.csv
+
+### Data Dictionary
+| Column| Description| Potential Reponses|                   
+|-------|------------|-------------------|
+| Timestamp | indicates the month/day/year and hour, minute, and second that the responder completed the survey |month/day/year, hour:minute:second|
+| Hook question| Hook question intended to grab the participant's attention; irrelevant to the analysis. Answers the question: Do you believe that a hotdog falls under the category of a sandwich? | Yes/No |
+| Position| What is the rationale behind your opinion?| any string that answers the question: What is the rationale behind your opinion?|
+| School Status| Answers the question: Are you currently enrolled as an undergraduate or graduate student at the University of Virginia?| "Undergraduate" indicates that the responder is an undergraduate student, "Graduate" indicates that the responder is a graduate student|
+| Field of Study| Answers the question: What is your field of study or major?|any string that answers the question: What is your field of study or major?|
+| Undergraduate Year| Answers the question: If you are an undergraduate, what is your current academic year?|First Year/Second Year/Third Year/Fourth Year/N/A|
+| Hometown| Answers the question: What state or country were you born in?|any string that answers the question: What state or country were you born in?|
+
