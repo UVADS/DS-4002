@@ -1,20 +1,20 @@
 # Syllabus DS 4002: Data Science Project Course
 
-**Instructors**: Javier Rasero (mnr3kn) and Harsh Anand (yyf8rj)
+**Instructors**: Peter Alonzi (lpa2a) and Layla Ranjbar (jxf7uw)
 
 **Office Hours**:
-   - **Javier Rasero**:
-        - *Dates and times*: Wednesdays and Fridays, 2-4pm. Also by appointment or just by dropping by my office and checking if I am available.
-        - *Location*:  Elson 198 or via zoom (check out Canvas for the link)
-   - **Harsh Anand**: tbd
+   - **Peter Alonzi**:
+        - *Dates and times*: Tuesdays 14:00-16:00pm
+        - *Location*:  Data Science 344
+   - **Layla Ranjbar**: Thursdays 15:30-16:30
 
 **Subject Area and Catalog Number**: Data Science, DS 4002
 
-**Term** : Spring 2024
+**Term** : Fall 2024
 
-**Meeting times**:  12:30-13:45, Tuesdays and Thursdays
+**Meeting times**:  11:00-11:50, Monday/Wednesday/Friday
 
-**Class Location**: Dell 1, Room 105
+**Class Location**: Data Science Room 205
 
 **Class Title**: Data Science Project Course
 
