@@ -92,17 +92,16 @@ There are 4 assignment categories:
 | Week 4  | 9/16,9/18,9/20|1|	2 |   | MI2	|
 | Week 5  | 9/23,9/25,9/27|1 | 3 |    | MI3   |
 | Week 6	 | 9/30,10/2,10/4 |1	  | 4 | Presentation Week  | MI4  |
-| Week 7  | 2/27, 2/29 |2   | 1	|   Begin Project 2	|MI1 |
-| Week 8  | 3/12, 3/14 | 2	| 2	| 	  |MI2|
-| Week 9 | 3/19, 3/21 |2	| 3	|	  | MI3	|
-| Week 10 | 3/26, 3/28 | 2 | 4 | Presentation Week | MI4 |
-| Week 11 | 4/2, 4/4 |  3  |	1 | Begin Project 3 | MI1 |
-| Week 12 | 4/9, 4/11 | 3 | 2	|   | MI2 |
-| Week 13 | 4/16, 4/18 | 3 | 3 | | MI3 |
-| Week 14 | 4/23, 4/25 | 3	| 	4| Presentation Week  | MI4  |
-| Week 15 | 4/30, 5/2 | 	|  	| Case studies |  	|
-| Week 16 |          |    |      |             |      |
-| Examinations | 5/9 | | | Last day to submit| |
+| Week 7  | 10/7,10/9,10/11 |2   | 1	|   Begin Project 2	|MI1 |
+| Week 8  | 10/16,10/18 | 2	| 2	| 	  |MI2|
+| Week 9  | 10/21,10/23,10/25|2	| 3	|	  | MI3	|
+| Week 10 | 10/28,10/30,11/1 | 2 | 4 | Presentation Week | MI4 |
+| Week 11 | 11/4,11/6,11/8 |  3  |	1 | Begin Project 3 | MI1 |
+| Week 12 | 11/11,11/13,11/15 | 3 | 2	|   | MI2 |
+| Week 13 | 11/18,11/20,11/22| 3 | 3 | |  |
+| Week 14 | 11/25 | 3	| 	4| Thanksgiving Week  | MI3  |
+| Week 15 | 12/2,12/4,12/6 |3 	| 5 	| Presentation Week | MI4 	|
+| Week 16 | 12/9         |    |      |             |      |
 
 
 ## A few Policies that will Govern the Class
