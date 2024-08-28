@@ -101,8 +101,9 @@ There are 4 assignment categories:
 | Week 13 | 11/18,11/20,11/22| 3 | 3 | |  |
 | Week 14 | 11/25 | 3	| 	4| Thanksgiving Week  | MI3  |
 | Week 15 | 12/2,12/4,12/6 |3 	| 5 	| Presentation Week | MI4 	|
-| Week 16 | 12/9         |    |      |             |      |
+| Exams | 12/9         |    |      |  No Exam           |      |
 
+* N.B. There is not final exam for this class
 
 ## A few Policies that will Govern the Class
 
