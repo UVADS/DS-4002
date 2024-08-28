@@ -86,22 +86,22 @@ There are 4 assignment categories:
 
 | Week 	| Date|Project # 	|Project Cycle	| Plan 	|Milestone	|
 |:---:	|:---:|:---:	|:---:	|:---:	|:---:	|
-| Week 1  | 1/18 |0	|  	   | 	Course Philosophy    |	      |
-| Week 2  | 1/23, 1/25 |0  |   | DS project fundamentals | |
-| Week 3  | 1/30, 2/1 |1  | 1	|Begin Project 1 | MI1	|
-| Week 4  | 2/6, 4/6 |1|	2 |   | MI2	|
-| Week 5  | 2/13, 2/15 |1 | 3 |    | MI3   |
-| Week 6	 | 2/20, 2/22 |1	  | 4 | Presentation Week  | MI4  |
+| Week 1  | 8/28,8/30 |0	|  	   | 	Course Philosophy    |	      |
+| Week 2  | 9/2,9/4,9/6 |0  |   | DS project fundamentals | |
+| Week 3  | 9/9,9/11,9/13 |1  | 1	|Begin Project 1 | MI1	|
+| Week 4  | 9/16,9/18,9/20|1|	2 |   | MI2	|
+| Week 5  | 9/23,9/25,9/27|1 | 3 |    | MI3   |
+| Week 6	 | 9/30,10/2,10/4 |1	  | 4 | Presentation Week  | MI4  |
 | Week 7  | 2/27, 2/29 |2   | 1	|   Begin Project 2	|MI1 |
-| Week 8  | 3/5, 3/7 | 2 |  	| Spring Break | 	|
-| Week 9  | 3/12, 3/14 | 2	| 2	| 	  |MI2|
-| Week 10 | 3/19, 3/21 |2	| 3	|	  | MI3	|
-| Week 11 | 3/26, 3/28 | 2 | 4 | Presentation Week | MI4 |
-| Week 12 | 4/2, 4/4 |  3  |	1 | Begin Project 3 | MI1 |
-| Week 13 | 4/9, 4/11 | 3 | 2	|   | MI2 |
-| Week 14 | 4/16, 4/18 | 3 | 3 | | MI3 |
-| Week 15 | 4/23, 4/25 | 3	| 	4| Presentation Week  | MI4  |
-| Week 16 | 4/30, 5/2 | 	|  	| Case studies |  	|
+| Week 8  | 3/12, 3/14 | 2	| 2	| 	  |MI2|
+| Week 9 | 3/19, 3/21 |2	| 3	|	  | MI3	|
+| Week 10 | 3/26, 3/28 | 2 | 4 | Presentation Week | MI4 |
+| Week 11 | 4/2, 4/4 |  3  |	1 | Begin Project 3 | MI1 |
+| Week 12 | 4/9, 4/11 | 3 | 2	|   | MI2 |
+| Week 13 | 4/16, 4/18 | 3 | 3 | | MI3 |
+| Week 14 | 4/23, 4/25 | 3	| 	4| Presentation Week  | MI4  |
+| Week 15 | 4/30, 5/2 | 	|  	| Case studies |  	|
+| Week 16 |          |    |      |             |      |
 | Examinations | 5/9 | | | Last day to submit| |
 
 
