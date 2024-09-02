@@ -23,14 +23,14 @@ The following table summarizes the assignments required to "meet spec" to earn c
 
 |Assignment |C|B|A|
 |--|--|--|--|
-|(MI 1) Create Hypothesis and Model Plan|3|3|3|
-|(MI 2) Establish Data Set and Create Project Plan|3|3|3|
-|(MI 3) Create Pipeline and Perform Analysis|3|3|3|
+|(MI 1) Project Goal |3|3|3|
+|(MI 2) Establish your data and register your analysis plan|3|3|3|
+|(MI 3) Perform Analysis|3|3|3|
 |(MI 4) Prepare Results for presentation|3|3|3|
-|(PR 1) Present Results (oral)|1|1|1|
+|(PR 1) Present Results (orally)|1|1|1|
 |(CC 1) Constructive Critique of Others||3|3|
 |(CC 2) Constructive Critique of Self||3|3|
 |(ID 1) Individual Documentation||3|3|
 |(CS 1) Case-study: results reproduction|||1|
 |(CS 2) Case-study: review & reflection|||1|
-|(CS 3) Case-study: produce (manuscript)|||1|
+|(CS 3) Case-study: create a case study|||1|
