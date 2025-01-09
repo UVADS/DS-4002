@@ -1,20 +1,20 @@
 # Syllabus DS 4002: Data Science Project Course
 
-**Instructors**: Peter Alonzi (lpa2a) and Layla Ranjbar (jxf7uw)
+**Instructors**: Javier Rasero (mnr3kn) and Mercedes Mora-Figueroa (eqa7yg)
 
 **Office Hours**:
    - **Peter Alonzi**:
-        - *Dates and times*: Tuesdays 14:00-16:00pm
-        - *Location*:  Data Science 344
-   - **Layla Ranjbar**: Thursdays 15:30-16:30
+        - *Dates and times*: Tuesdays 14:00-16:00
+        - *Location*:  Data Science 355
+   - **Mercedes Mora-Figueroa**: TBD
 
-**Subject Area and Catalog Number**: Data Science, DS 4002
+**Subject Area, Catalog Number, Section**: Data Science, DS 4002, 18751
 
-**Term** : Fall 2024
+**Term** : Spring 2025
 
-**Meeting times**:  11:00-11:50, Monday/Wednesday/Friday
+**Meeting times**:  13:00-13:50, Monday/Wednesday/Friday
 
-**Class Location**: Data Science Room 205
+**Class Location**: Data Science Room 306
 
 **Class Title**: Data Science Project Course
 
@@ -86,22 +86,22 @@ There are 4 assignment categories:
 
 | Week 	| Date|Project # 	|Project Cycle	| Plan 	|Milestone	|
 |:---:	|:---:|:---:	|:---:	|:---:	|:---:	|
-| Week 1  | 8/28,8/30 |0	|  	   | 	Course Philosophy    |	      |
-| Week 2  | 9/2,9/4,9/6 |0  |   | DS project fundamentals | |
-| Week 3  | 9/9,9/11,9/13 |1  | 1	|Begin Project 1 | MI1	|
-| Week 4  | 9/16,9/18,9/20|1|	2 |   | MI2	|
-| Week 5  | 9/23,9/25,9/27|1 | 3 |    | MI3   |
-| Week 6	 | 9/30,10/2,10/4 |1	  | 4 | Presentation Week  | MI4  |
-| Week 7  | 10/7,10/9,10/11 |2   | 1	|   Begin Project 2	|MI1 |
-| Week 8  | 10/16,10/18 | 2	| 2	| 	  |MI2|
-| Week 9  | 10/21,10/23,10/25|2	| 3	|	  | MI3	|
-| Week 10 | 10/28,10/30,11/1 | 2 | 4 | Presentation Week | MI4 |
-| Week 11 | 11/4,11/6,11/8 |  3  |	1 | Begin Project 3 | MI1 |
-| Week 12 | 11/11,11/13,11/15 | 3 | 2	|   | MI2 |
-| Week 13 | 11/18,11/20,11/22| 3 | 3 | |  |
-| Week 14 | 11/25 | 3	| 	4| Thanksgiving Week  | MI3  |
-| Week 15 | 12/2,12/4,12/6 |3 	| 5 	| Presentation Week | MI4 	|
-| Exams | 12/9         |    |      |  No Exam           |      |
+| Week 1  | 1/13,1/15,1/17 |0	|  	   | 	Course Philosophy    |	      |
+| Week 2  | 1/22,1/24 |0  |   | DS project fundamentals | |
+| Week 3  | 1/27,1/29,1/31 |1  | 1	|Begin Project 1 | MI1	|
+| Week 4  | 2/3, 2/5, 2/7 |1|	2 |   | MI2	|
+| Week 5  | 2/10, 2/12, 2/14 |1 | 3 |    | MI3   |
+| Week 6  | 2/17, 2/19, 2/21 |1	  | 4 | Presentation Week  | MI4  |
+| Week 7  | 2/24, 2/26, 2/28 |2   | 1	|   Begin Project 2	|MI1 |
+| Week 8  | 3/3, 3/5, 3/7 | 2	| 2	| 	  |MI2|
+| Week 9  | |	| 	|	Spring Break  | 	|
+| Week 10 | 3/17, 3/19, 3/21 | 2 | 3 | | MI3 |
+| Week 11 | 3/24, 3/26, 3/28 |  2  |	4 |  Presentation Week | MI1 |
+| Week 12 | 3/31, 4/2, 4/4 | 3 | 1	| Begin Project 3  | MI1 |
+| Week 13 | 4/7, 4/9, 4/11 | 3 | 2 | | MI2 |
+| Week 14 | 4/14, 4/16, 4/18 | 3	| 	3|  | MI3  |
+| Week 16 | 4/28, 4/30, 5/2 | 	|  	| Cases Studies | CS1, CS2, CS3|
+| Week 17 | 5/9 | | | Last day to submit (No final exam) | 	|
 
 * N.B. There is not final exam for this class
 
@@ -113,6 +113,7 @@ Attendance Policy: The majority of work done in this class is group work. Everyo
 
 University of Virginia Honor System: All work should be pledged in the spirit of the Honor System at the University of Virginia. The instructor will indicate which assignments and activities are to be done individually and which permit collaboration. The following pledge should be written out at the end of all quizzes, examinations, individual assignments, and papers:  “I pledge that I have neither given nor received help on this examination (quiz, assignment, etc.)”.  The pledge must be signed by the student. For more information, visit www.virginia.edu/honor.
 
-
 Special Needs:  The University of Virginia accommodates students with disabilities. Any SCPS student with a disability who needs accommodation (e.g., in arrangements for seating, extended time for examinations, or note-taking, etc.), should contact the Student Disability Access Center (SDAC) and provide them with appropriate medical or psychological documentation of his/her condition. Once accommodations are approved, just follow up with me concerning any logistics and implementation of accommodations.  Please try to make accommodations for test-taking at least 14 business days in advance of the date of the test(s). Students with disabilities are encouraged to contact the SDAC: 434-243-5180/Voice, 434-465-6579/Video Phone, 434-243-5188/Fax. Further policies and statements are available at www.virginia.edu/studenthealth/sdac/sdac.html
+
+LLM use: The use of Large Language Models (e.g., ChatGPT) is allowed. In fact, I encourage their use since, among other advantages, they allow you to further learn along the way. However, this is only advisable once you are expert enough to thoroughly understand the logic of programming. Until you reach this point, I strongly recommend that you avoid using LLM tools.
 
