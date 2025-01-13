@@ -1,5 +1,5 @@
 # Grading Policy
-This course uses the grading policy known as specifications grading. It has been demonstrated to provide much greater equity in the classroom and as a result improves achievement of learning objectives. However this system may be new to you. It does take some time to understand and we are ready to help you with any questions you may have. Please take advantage of office hours. For additional reading on this policy please start here [(link)](https://cte.virginia.edu/blog/2020/12/04/alternative-grading-practices-support-both-equity-and-learning).
+This course uses the grading policy known as specifications grading. It has been demonstrated to provide much greater equity in the classroom and as a result improves achievement of learning objectives. However this system may be new to you. It does take some time to understand and we are ready to help you with any questions you may have. Please take advantage of office hours. 
 
 ## Approach
 This course does not have exams or the concept of "points". Instead there are bundles of assignments, that when completed that earn letter grades. Every individual assignment is marked as "meets spec" or "does not meet spec yet". In order to understand what "meets spec" every assignment is accompanied by a single-level rubric that outlines three things:
@@ -9,7 +9,7 @@ This course does not have exams or the concept of "points". Instead there are bu
 
 The goal is to make the assignments as transparent as possible and not withold information from the students. For example in a traditional exam the students are told a list of subjects that may be on the test. The uncertainty causes anxiety and wastes an immense amount of time. Instead of giving exams this class provides clear instruction on tasks to perform which yield the same result (mastery of learning objectives) without the anxiety and timewasting of studying for the unknown.
 
-## Assignment Types (duplicated in top level syllabus)
+## Assignment Types
 Each assignment has a rubric to indicate the purpose, task, and criteria for the assignment. They are grouped into several categories summarized below. Details of how the assignments map onto course letter grades is presented in [Grading Policy Summary](grading.md). Alignment to the learning objectives is shown in the individual rubrics. 
 
 The 5 assignment categories:
