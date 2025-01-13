@@ -1,22 +1,22 @@
-# Syllabus DS 4002: Data Science Project Course
+# Syllabus DS 4002: Prototyping
 
-**Instructors**: Peter Alonzi (lpa2a) and Layla Ranjbar (jxf7uw)
+**Instructors**: Peter Alonzi (lpa2a) and Ethan Wang (jqf8qm)
 
 **Office Hours**:
    - **Peter Alonzi**:
-        - *Dates and times*: Tuesdays 14:00-16:00pm
+        - *Dates and times*: Wednesdays 14:00-16:00pm
         - *Location*:  Data Science 344
-   - **Layla Ranjbar**: Thursdays 15:30-16:30
+   - **Ethan Wang**: TBD
 
 **Subject Area and Catalog Number**: Data Science, DS 4002
 
-**Term** : Fall 2024
+**Term** : Spring 2025
 
-**Meeting times**:  11:00-11:50, Monday/Wednesday/Friday
+**Meeting times**:  11:00-12:15, Tuesday/Thursday
 
 **Class Location**: Data Science Room 205
 
-**Class Title**: Data Science Project Course
+**Class Title**: Prototyping (in SIS: Data Science Project Course)
 
 **Level**: Undergraduate
 
@@ -41,13 +41,6 @@ as soon as possible so that appropriate accommodations can be arranged (for exam
 death in the family). Group work outside of class is expected (on average project teams meet once a week outside of class). Students will be assigned to 
 small groups to work together on three projects throughout the semester. Groups will be 
 assigned after the first two weeks of class (aka the fundamental training period)
-
-## What students have said...
-> This was super cool to me because before this project, I had never worked with image data before and didn’t realize it was so readily available and so easy to work with. 
-
-> I am very nervous about the workforce, what if I am not good enough or don’t know enough? Gaining more knowledge on different types of models is helping me ease that anxiety.
-
-> There was a lot of communication faults from all of us. When we are in the industry, these issues don’t just slide. In a classroom, where we are here to learn, This is the best time to work on teamwork. Although this is can be uncomfortable let’s not worry make mistakes and focus on growing from those mistakes.
 
 ## What you will learn 
 Data Science is a broad, elusive, and dynamic field best learned via hands-on experience. 
@@ -84,24 +77,25 @@ There are 4 assignment categories:
 
 ## Schedule of Topics 
 
-| Week 	| Date|Project # 	|Project Cycle	| Plan 	|Milestone	|
-|:---:	|:---:|:---:	|:---:	|:---:	|:---:	|
-| Week 1  | 8/28,8/30 |0	|  	   | 	Course Philosophy    |	      |
-| Week 2  | 9/2,9/4,9/6 |0  |   | DS project fundamentals | |
-| Week 3  | 9/9,9/11,9/13 |1  | 1	|Begin Project 1 | MI1	|
-| Week 4  | 9/16,9/18,9/20|1|	2 |   | MI2	|
-| Week 5  | 9/23,9/25,9/27|1 | 3 |    | MI3   |
-| Week 6	 | 9/30,10/2,10/4 |1	  | 4 | Presentation Week  | MI4  |
-| Week 7  | 10/7,10/9,10/11 |2   | 1	|   Begin Project 2	|MI1 |
-| Week 8  | 10/16,10/18 | 2	| 2	| 	  |MI2|
-| Week 9  | 10/21,10/23,10/25|2	| 3	|	  | MI3	|
-| Week 10 | 10/28,10/30,11/1 | 2 | 4 | Presentation Week | MI4 |
-| Week 11 | 11/4,11/6,11/8 |  3  |	1 | Begin Project 3 | MI1 |
-| Week 12 | 11/11,11/13,11/15 | 3 | 2	|   | MI2 |
-| Week 13 | 11/18,11/20,11/22| 3 | 3 | |  |
-| Week 14 | 11/25 | 3	| 	4| Thanksgiving Week  | MI3  |
-| Week 15 | 12/2,12/4,12/6 |3 	| 5 	| Presentation Week | MI4 	|
-| Exams | 12/9         |    |      |  No Exam           |      |
+| Week 	| Date     |Project # 	|Project Cycle	| Plan 	|Milestone	|
+|:---:	|:---:     |:---:	|:---:	|:---:	                 |:---:	|
+| Week 1  | 1/14,16 |0	|  	   | 	Course Philosophy      | |
+| Week 2  | 1/21,23 |0  |        | DS project fundamentals | |
+| Week 3  | 1/28,30 |1  | 1	|Begin Project 1 | MI1	|
+| Week 4  | 2/4,6   |1  | 2 |   | MI2	|
+| Week 5  | 2/11,13 |1 | 3 |    | MI3   |
+| Week 6	 | 2/18,20 |1	  | 4 | Presentation Week  | MI4  |
+| Week 7  | 2/25,25 | 2   | 1	|   Begin Project 2	|MI1 |
+| Week 8  | 3/4,6   | 2	| 2	| 	  |MI2|
+| Week 9  | 3/11,13 | 2	| *	| Spring Break	  | 	|
+| Week 10 | 3/18,20 | 2 | 3 |  | MI3 |
+| Week 11 | 3/25,27 | 2 | 4 | Presentation Week | MI4 |
+| Week 12 | 4/1,3   |  3 |	1 | Begin Project 3 | MI1 |
+| Week 13 | 4/8,10  |  3 | 2	|   | MI2 |
+| Week 14 | 4/15,17 |  3 | 3 | | MI3 |
+| Week 15 | 4/22,24 |  3 | 	4| Presentation Week | MI4  |
+| Week 16 | 4/29    |  * |  	|  |  	|
+| Exams | 5/8         |    |      |  No Exam           |      |
 
 * N.B. There is not final exam for this class
 
