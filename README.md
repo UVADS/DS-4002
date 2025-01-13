@@ -67,7 +67,7 @@ contribute to the community. Learning objectives include:
 ## How You’ll Know You Are Learning (Assessments)
 This class uses the Specifications grading system. Like a more traditional system the course is broken up into assignments but they are all graded on a single-level rubric system. For many students it is an unfamiliar system and requires a little adjustment but once you get used to it you will really enjoy the benefits.
 
-Details are here: [Grading Policy Summary](grading.md). Alignment to the learning objectives is shown in the individual rubrics. 
+Details are here: [Grading Policy](grading.md). Alignment to the learning objectives is shown in the individual rubrics. 
 
 There are 4 assignment categories:
 1. Project Milestones - These assignments describe milestones in the project cycle and help guide the student through the process of working a project from start to finish.
