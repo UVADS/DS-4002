@@ -97,7 +97,7 @@ There are 4 assignment categories:
 | Week 16 | 4/29    |  * |  	|  |  	|
 | Exams | 5/8         |    |      |  No Exam           |      |
 
-* N.B. There is not final exam for this class
+* N.B. There is no final exam for this class
 
 ## A few Policies that will Govern the Class
 
