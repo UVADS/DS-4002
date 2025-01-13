@@ -69,12 +69,6 @@ This class uses the Specifications grading system. Like a more traditional syste
 
 Details are here: [Grading Policy](grading.md). Alignment to the learning objectives is shown in the individual rubrics. 
 
-There are 4 assignment categories:
-1. Project Milestones - These assignments describe milestones in the project cycle and help guide the student through the process of working a project from start to finish.
-2. Critiques - These assignments are about providing critique to others and to yourself.
-3. Documentation - These assignments serve two purposes. The first is to practice communicating the technical details of your work by documenting your code. The second is to highlight the contributions you made to each project cycle.
-4. Case Studies - These assignments are about reproducing, reviewing and producing projects.
-
 ## Schedule of Topics 
 
 | Week 	| Date     |Project # 	|Project Cycle	| Plan 	|Milestone	|
