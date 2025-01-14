@@ -6,7 +6,9 @@
    - **Peter Alonzi**:
         - *Dates and times*: Wednesdays 14:00-16:00pm
         - *Location*:  Data Science 344
-   - **Ethan Wang**: TBD
+   - **Ethan Wang**: 
+        - Dates and times*: Monday 13:00 - 15:30pm
+        - *Location*: Data Science 304, or you can find me at the closest cubicle in front of 304 conference room.
 
 **Subject Area and Catalog Number**: Data Science, DS 4002
 
