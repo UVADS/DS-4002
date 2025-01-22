@@ -11,6 +11,8 @@ The data was collected through an online survey conducted in 2025.
 | What is the rationale behind your opinion? |Inquires on respondents' rationale regarding answer to first question. | string |"The content inside isn’t covered u can see the sausage"|
 | Are you currently enrolled as an undergraduate or graduate student at the University of Virginia? |Establishes participant as an undergraduate or graduate student at UVa. | string |Yes|
 | What is your field of study or major? | Inquires on respondents' field of study. | string | "women gender and sexuality studies" |
-| What state or country were you born in?	 | Marks the creation of a record with a timestamp. | timestamp | 1/15/2025 21:53:05 |
-
+| What state or country were you born in?	 | Inquires on where respondent was born . | string |"Virginia, USA"|
+|If you are an undergraduate, what is your current academic year?	| Inquires on students' university year. | string |"Third year"|
+|Gender: How do you identify?| Inquires on respondent's gender. | string | "Woman"|
+|You preferred to self-describe for gender; please, share your identity below.|Allows respondent to self-describe their gender. | string | "Agender"|
 
