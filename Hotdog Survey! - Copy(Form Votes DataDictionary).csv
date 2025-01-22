@@ -1,8 +1,0 @@
-Field,Description,Value Type,Additional Notes
-ID,Unique identifier for each response,int,starts at 1
-Start time,Datetime that participant started the survey,datetime,
-Completion time,Datetime that participant completed the survey,datetime,
-Is a hotdog a sandwich,Main question of the survey. Finds out if the participant believes if a hotdog is a sandwich,binary,"No = 0, Yes = 1"
-Explain your answer,Open-ended response to elaborate on the question of whether a hotdog is a sandwich,string,
-What year are you?,Multiple choice string response for the current academic year of the participant,string,"Possible responses types: First-Year, Second-Year, Third-Year, Fourth-Year, Graduate"
-Where are you from,Open-ended response to where a student is from,string,
