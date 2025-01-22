@@ -2,9 +2,9 @@
 
 This project is designed to investigate how UVA students view hot dogs; as a sandwich or not.
 
-* Raw Data:
+* Raw Data: Hotdog Form and YikYak
 * Established Data:
-* Data Dictionary:
+* Data Dictionary: Included within the HotdogSurvey.csv
 
 
 
