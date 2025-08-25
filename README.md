@@ -1,22 +1,32 @@
 # Syllabus DS 4002: Prototyping
 
-**Instructors**: Peter Alonzi (lpa2a) and Ethan Wang (jqf8qm)
+**Instructors**: 
+   * 12:00 section: Peter Alonzi (lpa2a) and Mohini Gupta (rde6mn)
+   * 13:00 section: Gianluca Guadagni (gg5d) and 
 
 **Office Hours**:
    - **Peter Alonzi**:
-        - *Dates and times*: Wednesdays 14:00-16:00pm
+        - *Dates and times*: Wednesdays 13:00-15:00pm
         - *Location*:  Data Science 344
-   - **Ethan Wang**: 
-        - Dates and times*: Monday 13:30 - 15:30pm
-        - *Location*: Data Science 304, or you can find me at the closest cubicle in front of 304 conference room.
-
+   - **Mohini Gupta**: 
+        - *Dates and times*: TBD
+        - *Location*: TBD
+   - **Gianluca Guadagni**:
+        - *Dates and times*: TBD
+        - *Location*: 431
+   - **TBD**:
+        - *Dates and times*: TBD
+        - *Location*: TBD
+          
 **Subject Area and Catalog Number**: Data Science, DS 4002
 
-**Term** : Spring 2025
+**Term** : Fall 2025
 
-**Meeting times**:  11:00-12:15, Tuesday/Thursday
+**Meeting times**:     
+   * Section 001 - 12:00-12:50, MWF
+   * Section 002 - 13:00-13:50, MWF
 
-**Class Location**: Data Science Room 205
+**Class Location**: Data Science Room 306
 
 **Class Title**: Prototyping (in SIS: Data Science Project Course)
 
@@ -97,7 +107,6 @@ Details are here: [Grading Policy](grading.md). Alignment to the learning object
 
 ## A few Policies that will Govern the Class
 
-Grading Policies: This course uses the specifications grading system as explained in **Specifications Grading** By Linda Nilson and under the guidance of the [UVA CTE](https://app.cte.virginia.edu/events/cdi-2x-designing-equitable-grading-schemes). For details [see this page](grading.md).
 
 Attendance Policy: The majority of work done in this class is group work. Everyone is accountable to their group. Attendence is expected not only during class time but also during time outside of class when the group decides. Attendance is essential during presentation week.
 
