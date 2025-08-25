@@ -1,7 +1,7 @@
 # Grading Policy
 This course uses the grading policy known as specifications grading. It has been demonstrated to provide much greater engagement in the classroom and as a result improves achievement of learning objectives. However this system may be new to you. It does take some time to understand and we are ready to help you with any questions you may have. Please take advantage of office hours. 
 
-If you are curious about more details of specifications grading see **Specifications Grading** By Linda Nilson and further work from [The UVA Center for Teaching Excellence](https://app.cte.virginia.edu/events/cdi-2x-designing-equitable-grading-schemes).
+If you are curious about more details of specifications grading see **Specifications Grading** By Linda Nilson.
 
 ## Approach
 This course does not have exams or the concept of "points". Instead there are bundles of assignments, that when completed that earn letter grades. Every individual assignment is marked as "meets spec" or "does not meet spec yet". In order to understand what "meets spec" every assignment is accompanied by a single-level rubric that outlines three things:
@@ -19,7 +19,7 @@ The 5 assignment categories:
 2. Critiques - These assignments are about providing critique to others and to yourself.
 3. Documentation - These assignments serve two purposes. The first is to practice communicating the technical details of your work by documenting your code. The second is to highlight the contributions you made to each project cycle.
 4. Case Studies - These assignments are about reproducing, reviewing and producing projects.
-5. Attendance - 
+5. Attendance - Every day the class meets during the projects attendance will be taken. In order to meet the requirement for the A bundle no more than one absense per project cycle is allowed. There is no requirement for students to report minor illness or other circumstances, these absenses are pre approved. For major extenuating circumstances please discuss the details with the instructor.
 
 ## Bundles
 The following table summarizes the assignments required to "meet spec" to earn certain letter grades.
