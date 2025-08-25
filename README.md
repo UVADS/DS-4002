@@ -41,18 +41,15 @@
 The objective of this course is for students to gain experience working on data-driven 
 problems while developing the ability to critique their own work and the work of others 
 productively. The key element that separates this course from traditional courses is that it 
-is driven by student-led projects. Students will be asked to set the expectations for the 
+is driven by student-led projects. Students will be asked to meet a high level of expectation for the 
 course, contribute to its tactical objectives, and provide critical feedback to peers. Aside 
 from providing datasets and infrastructure support, setting high-level project goals, and 
 offering mentorship and technical guidance, the instructors will serve primarily in 
 advisory capacities for the student teams.
 
-The class meets in-person; attendance is compulsory. If circumstances arise that preclude 
-attendance at a particular session, students are to notify group members and the instructor 
-as soon as possible so that appropriate accommodations can be arranged (for example a 
-death in the family). Group work outside of class is expected (on average project teams meet once a week outside of class). Students will be assigned to 
+The class meets in-person; attendance is compulsory and part of the grading scale. However that does not mean all work is done in class. Group work outside of class is expected (on average project teams meet once a week outside of class). Students will be assigned to 
 small groups to work together on three projects throughout the semester. Groups will be 
-assigned after the first two weeks of class (aka the fundamental training period)
+assigned after the first two weeks of class (aka the fundamental training period).
 
 ## What you will learn 
 Data Science is a broad, elusive, and dynamic field best learned via hands-on experience. 
@@ -102,8 +99,8 @@ This class uses the Specifications grading system. Like a more traditional syste
 | Exams   | 12/11         |           |  No Exam                |             |      |
 
 * N.B. There is no final exam for this class.
-* Attendance credit is earned during the project cycles. I.e. 9/8 through 12/3.
-* No assignments can be accepted after 12/11, due dates are listed in Canvas.
+* Attendance credit is earned during the project cycles. I.e. from 9/8 through 12/3.
+* Due dates are listed in canvas and submissions are made via canvas except for CS3. No assignments can be accepted after 12/11.
 
 ## A few Policies that will Govern the Class
 Attendance Policy: The majority of the project work for this class is done during class. As such attendance is part of the course grade. Details are in the grading details page [Grading Policy](grading.md).
