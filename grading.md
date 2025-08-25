@@ -1,5 +1,7 @@
 # Grading Policy
-This course uses the grading policy known as specifications grading. It has been demonstrated to provide much greater equity in the classroom and as a result improves achievement of learning objectives. However this system may be new to you. It does take some time to understand and we are ready to help you with any questions you may have. Please take advantage of office hours. 
+This course uses the grading policy known as specifications grading. It has been demonstrated to provide much greater engagement in the classroom and as a result improves achievement of learning objectives. However this system may be new to you. It does take some time to understand and we are ready to help you with any questions you may have. Please take advantage of office hours. 
+
+If you are curious about more details of specifications grading see **Specifications Grading** By Linda Nilson and further work from [The UVA Center for Teaching Excellence](https://app.cte.virginia.edu/events/cdi-2x-designing-equitable-grading-schemes).
 
 ## Approach
 This course does not have exams or the concept of "points". Instead there are bundles of assignments, that when completed that earn letter grades. Every individual assignment is marked as "meets spec" or "does not meet spec yet". In order to understand what "meets spec" every assignment is accompanied by a single-level rubric that outlines three things:
