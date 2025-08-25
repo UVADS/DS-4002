@@ -92,12 +92,12 @@ This class uses the Specifications grading system. Like a more traditional syste
 | Week 7  | 10/6,8,10     | 2         |  Begin Project 2	      | MI1         | | Open CS 1, CS 2  |
 | Week 8  | 10/15,17      | 2	        |  no class 10/13	        | MI2         | |
 | Week 9  | 10/20,22,24   | 2	        |                 	      | MI3         | |
-| Week 10 | 10/27,29,31   | 2         |  Presentation Week      | MI4         | | CS1,CS2 Due 10/31 | 
+| Week 10 | 10/27,29,31   | 2         |  Presentation Week      | MI4         | CC1,CC2,ID1 due 11/3 | CS1,CS2 Due 10/31 | 
 | Week 11 | 11/3,5,7      | 3         |  Begin Project 3        | MI1         | | Open CS 3 |
 | Week 12 | 11/10,12,14   |  3        |	                        | MI2         | | |
 | Week 13 | 11/17,19,21   |  3        |                         | MI3         | | |
 | Week 14 | 11/24         |  3        |  Thanksgiving           |             | | |
-| Week 15 | 12/1,3,5      |  3        | 	Presentation Week     | MI4         | | CS3 Due 12/5 |
+| Week 15 | 12/1,3,5      |  3        | 	Presentation Week     | MI4         | CC1,CC2,ID1 due 12/8 | CS3 Due 12/5 |
 | Week 16 | 12/8          | Make UP 	|                         |    	        |      |
 | Exams   | 12/11         |           |  No Exam                |             |      |
 
