@@ -82,7 +82,7 @@ This class uses the Specifications grading system. Like a more traditional syste
 ## Schedule of Topics 
 
 | Week 	  | Date          |Project # 	| Plan 	                  |Milestone Due|   B Bundle | A Bundle   |
-|:---:	  |:---:          |:---:	    |:---:	                  |:---:	      |:---:	|  |:---:	|
+|:---:	  |:---:          |:---:	    |:---:	                  |:---:	      |:---:	| :---: |:---:	|
 | Week 1  | 8/27,29       |0	  | Course Philosophy       |             | ||
 | Week 2  | 9/1,3,5       |0    | DS project fundamentals |             | ||
 | Week 3  | 9/8,10,12     | 1   | Begin Project 1         | MI1	        | ||
