@@ -77,9 +77,7 @@ contribute to the community. Learning objectives include:
 
 
 ## How You’ll Know You Are Learning (Assessments)
-This class uses the Specifications grading system. Like a more traditional system the course is broken up into assignments but they are all graded on a single-level rubric system. For many students it is an unfamiliar system and requires a little adjustment but once you get used to it you will really enjoy the benefits.
-
-Details are here: [Grading Policy](grading.md). Alignment to the learning objectives is shown in the individual rubrics. 
+This class uses the Specifications grading system. Like a more traditional system the course is broken up into assignments but they are all graded on a single-level rubric system. For many students it is an unfamiliar system and requires a little adjustment but once you get used to it you will really enjoy the benefits. Details are here: [Grading Policy](grading.md). Alignment to the learning objectives is shown in the individual rubrics. 
 
 ## Schedule of Topics 
 
@@ -106,12 +104,6 @@ Details are here: [Grading Policy](grading.md). Alignment to the learning object
 * N.B. There is no final exam for this class
 
 ## A few Policies that will Govern the Class
+Attendance Policy: The majority of the project work for this class is done during class. As such attendance is part of the course grade. Details are in the grading details page [Grading Policy](grading.md).
 
-
-Attendance Policy: The majority of work done in this class is group work. Everyone is accountable to their group. Attendence is expected not only during class time but also during time outside of class when the group decides. Attendance is essential during presentation week.
-
-University of Virginia Honor System: All work should be pledged in the spirit of the Honor System at the University of Virginia. The instructor will indicate which assignments and activities are to be done individually and which permit collaboration. The following pledge should be written out at the end of all quizzes, examinations, individual assignments, and papers:  “I pledge that I have neither given nor received help on this examination (quiz, assignment, etc.)”.  The pledge must be signed by the student. For more information, visit www.virginia.edu/honor.
-
-
-Special Needs:  The University of Virginia accommodates students with disabilities. Any SCPS student with a disability who needs accommodation (e.g., in arrangements for seating, extended time for examinations, or note-taking, etc.), should contact the Student Disability Access Center (SDAC) and provide them with appropriate medical or psychological documentation of his/her condition. Once accommodations are approved, just follow up with me concerning any logistics and implementation of accommodations.  Please try to make accommodations for test-taking at least 14 business days in advance of the date of the test(s). Students with disabilities are encouraged to contact the SDAC: 434-243-5180/Voice, 434-465-6579/Video Phone, 434-243-5188/Fax. Further policies and statements are available at www.virginia.edu/studenthealth/sdac/sdac.html
-
+There are many additional policies that this course inherits from the School of Data Science course policies, please see 
