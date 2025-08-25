@@ -82,24 +82,24 @@ This class uses the Specifications grading system. Like a more traditional syste
 ## Schedule of Topics 
 
 | Week 	  | Date          |Project # 	| Plan 	                  |Milestone Due|   B Bundle | A Bundle   |
-|:---:	  |:---:          |:---:	    |:---:	                  |:---:	      |:---:	| :---: |:---:	|
-| Week 1  | 8/27,29       |0	  | Course Philosophy       |             | | |
-| Week 2  | 9/1,3,5       |0    | DS project fundamentals |             | | |
-| Week 3  | 9/8,10,12     | 1   | Begin Project 1         | MI1	        | | |
-| Week 4  | 9/15,17,19    | 1   |                         | MI2       	| | |
-| Week 5  | 9/22,24,26    | 1   |                         | MI3         | | |
-| Week 6	| 9/29,10/1,3   | 1	  |  Presentation Week | MI4 | CC1,CC2,ID1 due 10/6 | |
-| Week 7  | 10/6,8,10     | 2   |  Begin Project 2	 | MI1 | | Open CS 1, CS 2  |
-| Week 8  | 10/15,17      | 2	  |  no class 10/13	   | MI2 | |
-| Week 9  | 10/20,22,24   | 2	  |                 	 | MI3 | |
-| Week 10 | 10/27,29,31   | 2   |  Presentation Week | MI4 | | CS1,CS2 Due 10/31 | 
-| Week 11 | 11/3,5,7      | 3   |  Begin Project 3   | MI1 | | Open CS 3 |
-| Week 12 | 11/10,12,14   |  3  |	                   | MI2 | | |
-| Week 13 | 11/17,19,21   |  3  |                    | MI3 | | |
-| Week 14 | 11/24         |  3  |  Thanksgiving      |     | | |
-| Week 15 | 12/1,3,5      |  3  | 	Presentation Week| MI4 | | CS3 Due 12/5 |
-| Week 16 | 12/8          | Make UP 	|  |  	| |
-| Exams   | 12/11         |     |  No Exam       |    |      |
+|:---:	  |:---:          |:---:	    |:---:	                  |:---:        |:---:	| :---: |
+| Week 1  | 8/27,29       |0	        | Course Philosophy       |             |       | |
+| Week 2  | 9/1,3,5       |0          | DS project fundamentals |             |       | |
+| Week 3  | 9/8,10,12     | 1         | Begin Project 1         | MI1	        |       | |
+| Week 4  | 9/15,17,19    | 1         |                         | MI2         |       | |
+| Week 5  | 9/22,24,26    | 1         |                         | MI3         |       | |
+| Week 6	| 9/29,10/1,3   | 1	        |  Presentation Week      | MI4         | CC1,CC2,ID1 due 10/6 | |
+| Week 7  | 10/6,8,10     | 2         |  Begin Project 2	      | MI1         | | Open CS 1, CS 2  |
+| Week 8  | 10/15,17      | 2	        |  no class 10/13	        | MI2         | |
+| Week 9  | 10/20,22,24   | 2	        |                 	      | MI3         | |
+| Week 10 | 10/27,29,31   | 2         |  Presentation Week      | MI4         | | CS1,CS2 Due 10/31 | 
+| Week 11 | 11/3,5,7      | 3         |  Begin Project 3        | MI1         | | Open CS 3 |
+| Week 12 | 11/10,12,14   |  3        |	                        | MI2         | | |
+| Week 13 | 11/17,19,21   |  3        |                         | MI3         | | |
+| Week 14 | 11/24         |  3        |  Thanksgiving           |             | | |
+| Week 15 | 12/1,3,5      |  3        | 	Presentation Week     | MI4         | | CS3 Due 12/5 |
+| Week 16 | 12/8          | Make UP 	|                         |    	        |      |
+| Exams   | 12/11         |           |  No Exam                |             |      |
 
 * N.B. There is no final exam for this class
 
