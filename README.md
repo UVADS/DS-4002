@@ -102,6 +102,7 @@ This class uses the Specifications grading system. Like a more traditional syste
 | Exams   | 12/11         |           |  No Exam                |             |      |
 
 * N.B. There is no final exam for this class
+* Attendance credit is earned during the project cycles. I.e. 9/8 through 12/3.
 
 ## A few Policies that will Govern the Class
 Attendance Policy: The majority of the project work for this class is done during class. As such attendance is part of the course grade. Details are in the grading details page [Grading Policy](grading.md).
