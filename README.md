@@ -2,7 +2,7 @@
 
 **Instructors**: 
    * 12:00 section: Peter Alonzi (lpa2a) and Mohini Gupta (rde6mn)
-   * 13:00 section: Gianluca Guadagni (gg5d) and 
+   * 13:00 section: Gianluca Guadagni (gg5d) and Andres Castellanos (ppj8hm)
 
 **Office Hours**:
    - **Peter Alonzi**:
@@ -14,7 +14,7 @@
    - **Gianluca Guadagni**:
         - *Dates and times*: TBD
         - *Location*: 431
-   - **TBD**:
+   - **Andres Castellanos**:
         - *Dates and times*: TBD
         - *Location*: TBD
           
