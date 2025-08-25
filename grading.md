@@ -19,12 +19,14 @@ The 5 assignment categories:
 2. Critiques - These assignments are about providing critique to others and to yourself.
 3. Documentation - These assignments serve two purposes. The first is to practice communicating the technical details of your work by documenting your code. The second is to highlight the contributions you made to each project cycle.
 4. Case Studies - These assignments are about reproducing, reviewing and producing projects.
+5. Attendance - 
 
 ## Bundles
 The following table summarizes the assignments required to "meet spec" to earn certain letter grades.
 
 |Assignment |C|B|A|
 |--|--|--|--|
+|(AT) Attendance|14|17|20|
 |(MI 1) Project Goal |3|3|3|
 |(MI 2) Establish your data and register your analysis plan|3|3|3|
 |(MI 3) Perform Analysis|3|3|3|
