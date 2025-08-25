@@ -81,14 +81,14 @@ This class uses the Specifications grading system. Like a more traditional syste
 
 ## Schedule of Topics 
 
-| Week 	  | Date          |Project # 	| Plan 	                  |Milestone Due|       |
-|:---:	  |:---:          |:---:	    |:---:	                  |:---:	      |:---:	|
-| Week 1  | 8/27,29       |0	  | Course Philosophy       |             |
-| Week 2  | 9/1,3,5       |0    | DS project fundamentals |             |
-| Week 3  | 9/8,10,12     | 1   | Begin Project 1         | MI1	        |
-| Week 4  | 9/15,17,19    | 1   |                         | MI2       	|
-| Week 5  | 9/22,24,26    | 1   |                         | MI3         |
-| Week 6	| 9/29,10/1,3   | 1	  |  Presentation Week | MI4 |
+| Week 	  | Date          |Project # 	| Plan 	                  |Milestone Due|   B Bundle | A Bundle   |
+|:---:	  |:---:          |:---:	    |:---:	                  |:---:	      |:---:	|  |:---:	|
+| Week 1  | 8/27,29       |0	  | Course Philosophy       |             | ||
+| Week 2  | 9/1,3,5       |0    | DS project fundamentals |             | ||
+| Week 3  | 9/8,10,12     | 1   | Begin Project 1         | MI1	        | ||
+| Week 4  | 9/15,17,19    | 1   |                         | MI2       	| ||
+| Week 5  | 9/22,24,26    | 1   |                         | MI3         | ||
+| Week 6	| 9/29,10/1,3   | 1	  |  Presentation Week | MI4 | CC1,CC2,ID1 due 10/6 | |
 | Week 7  | 10/6,8,10     | 2   |  Begin Project 2	 | MI1 | Open CS 1, CS 2 |
 | Week 8  | 10/15,17      | 2	  |  no class 10/13	   | MI2 |
 | Week 9  | 10/20,22,24   | 2	  |                 	 | MI3 |
