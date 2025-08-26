@@ -38,3 +38,5 @@ The following table summarizes the assignments required to "meet spec" to earn c
 |(CS 1) Case-study: results reproduction|||1|
 |(CS 2) Case-study: review & reflection|||1|
 |(CS 3) Case-study: create a case study|||1|
+
+* N.B. The MI assignment are group assignments
