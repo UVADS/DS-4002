@@ -105,4 +105,4 @@ This class uses the Specifications grading system. Like a more traditional syste
 ## A few Policies that will Govern the Class
 Attendance Policy: The majority of the project work for this class is done during class. As such attendance is part of the course grade. Details are in the grading details page [Grading Policy](grading.md).
 
-There are many additional policies that this course inherits from the School of Data Science course policies, please see 
+There are many additional policies that this course inherits from the School of Data Science course policies, please see [here](https://myuva-my.sharepoint.com/:w:/g/personal/lpa2a_virginia_edu/EV_hHfKR8nxAissJQ5nxVEYB8wpCfQTej1YOnr-fzmgxQw?e=6yE1x1)
