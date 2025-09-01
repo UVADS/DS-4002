@@ -9,4 +9,4 @@ The "What Year Are You In?" question was a multiple choice question that allowed
 The "Is Hotdog A Sandwich?" question was a multiple choice question that allowed two text inputs "Yes" or "No".
 
 ### Graph ###
-<img width="1030" height="696" alt="image" src="https://github.com/user-attachments/assets/15843745-74bd-4931-8334-e26b52cddcc9" />
+<img width="1030" height="696" alt="image" src="https://github.com/user-attachments/assets/db58b88f-0af9-4b96-89ed-85675f7f8b4c" />
