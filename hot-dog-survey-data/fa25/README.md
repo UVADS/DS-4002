@@ -1,2 +1,2 @@
-Provenance: Google Survery originating from Canvas Announcement. Spreaded by students who answered it to other students.
+Provenance: Google Survery originating from Canvas Announcement. Spreaded by students who answered it to other students. \\
 Data Dictionary: 
