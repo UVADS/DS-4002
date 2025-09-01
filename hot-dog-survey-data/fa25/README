@@ -3,6 +3,6 @@
   #The data came from UVA undergraudate students who responded via Google forms whether or not they considered a hot dog a sandwich. The students were also prompted to answer what year they are at the university
 
   #The Data Contains 3 Variables:
-     # Instance of response
+     #Instance of response
       #Year of Student
-      Whether a Hot Dog is a Sandwich#
+      #Whether a Hot Dog is a Sandwich
