@@ -9,7 +9,7 @@
         - *Dates and times*: Wednesdays 13:00-15:00pm
         - *Location*:  Data Science 344
    - **Mohini Gupta**: 
-        - *Dates and times*: TBD
+        - *Dates and times*: Fridays 13:00-15:00
         - *Location*: TBD
    - **Gianluca Guadagni**:
         - *Dates and times*: TBD
