@@ -10,7 +10,7 @@
         - *Location*:  Data Science 344
    - **Mohini Gupta**: 
         - *Dates and times*: Fridays 13:00-15:00
-        - *Location*: TBD
+        - *Location*: The Hub, 2nd Floor
    - **Gianluca Guadagni**:
         - *Dates and times*: TBD
         - *Location*: 431
