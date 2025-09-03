@@ -1,4 +1,4 @@
-| Column Name         | Data Type | Description                                                      | Example Values |
-|---------------------|-----------|------------------------------------------------------------------|---------------|
-| year                | integer   | Student's academic year at UVA (1=First-Year, ..., 4=Fourth-Year)| 1, 2, 3, 4    |
-| is_hotdog_sandwich  | string    | Student’s answer to “Is a hotdog a sandwich?” (Yes/No)           | Yes, No       |
+| Column Name         | Description                                                      | Example Values |
+|---------------------|------------------------------------------------------------------|---------------|
+| year                | Student's academic year at UVA (1=First-Year, ..., 4=Fourth-Year)| 1, 2, 3, 4    |
+| is_hotdog_sandwich  | Student’s answer to “Is a hotdog a sandwich?” (Yes/No)           | Yes, No       |
