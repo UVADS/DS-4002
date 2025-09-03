@@ -1,8 +1,2 @@
 ## Provenance
 This dataset was collected by students enrolled in the University of Virginia DS 4002 course in Septemeber 2025. Survery responses were gathered using a Google Form spread within UVA student communities. The survey asked two questions to capture class year and each student's decision of whether a hot dog is considered a sandwich. All responses were anonymous. 
-
-
-| Column Name         | Data Type | Description                                                      | Example Values |
-|---------------------|-----------|------------------------------------------------------------------|---------------|
-| year                | integer   | Student's academic year at UVA (1=First-Year, ..., 4=Fourth-Year)| 1, 2, 3, 4    |
-| is_hotdog_sandwich  | string    | Student’s answer to “Is a hotdog a sandwich?” (Yes/No)           | Yes, No       |
