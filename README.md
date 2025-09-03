@@ -12,7 +12,7 @@
         - *Dates and times*: Fridays 13:00-15:00
         - *Location*: The Hub, 2nd Floor
    - **Gianluca Guadagni**:
-        - *Dates and times*: TBD
+        - *Dates and times*: Thursdays 17:00-18:00
         - *Location*: 431
    - **Andres Castellanos**:
         - *Dates and times*: TBD
