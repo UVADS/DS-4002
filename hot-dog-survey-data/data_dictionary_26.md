@@ -12,4 +12,4 @@ See file Hotdog Survey (Responses) - Form Responses 1.csv
 | Major at UVA | Answers what current major is if applicable | Any string for major, empty for not applicable |
 | Year at UVA | Answers year at UVA | First, Second, Third, Fourth, empty for not applicable |
 | What school are you enrolled in? | Answers where the responder is enrolled | Any School |
-| How frequently do you eat hot dogs? | Answers of how often responder eats hot dogs | String response of never, rarely, occasionally |
+| How frequently do you eat hot dogs? | Answers of how often responder eats hot dogs | String response of never, rarely, occasionally, frequently |
