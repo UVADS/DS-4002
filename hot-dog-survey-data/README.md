@@ -11,3 +11,4 @@ We collected data from students by having them filling out a survey. The raw dat
 * Established Data: Combined Yik Yak, Survey, and Srat/Frat Data
 
 
+A survey was sent out to UVA students asking whether they believed a hot dog was sandwich. The survey asked if the students were full time, what year they were, and if they believed a hot dog was a sandwich. 
