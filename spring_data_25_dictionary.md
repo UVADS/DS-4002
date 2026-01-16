@@ -1,5 +1,5 @@
 ### Data File
-See file DS-4002-Survey-Results.csv
+See file Hotdog Survey (Responses).xlsx
 
 ### Data Dictionary
 | Column| Description| Potential Reponses|                   
