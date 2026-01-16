@@ -1,6 +1,6 @@
 # Hot Dog Survey Data
 
-We collected data from students by having them filling out a survey. The raw data are uploaded in the file Hotdog Survey (Responses).xlsx, and the data dictionary describing the data is in the file data_dictionary_sp26. 
+We collected data from students by having them filling out a survey. The raw data are uploaded in the file Hotdog_Survey_(Responses).xlsx, and the data dictionary describing the data is in the file data_dictionary_sp26. 
 
 * Raw Data: 
     * Hotdog Form
@@ -8,6 +8,5 @@ We collected data from students by having them filling out a survey. The raw dat
 * Data Dictionary:
     * Included within the HotdogSurvey.csv
 * Raw Data:
-* Established Data: Combined Yik Yak, Survey, and Srat/Frat Data
-
+* Established Data: Survey sent out to friends of students in DS 4002
 
