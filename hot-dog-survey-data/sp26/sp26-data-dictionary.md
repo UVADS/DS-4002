@@ -1,0 +1,6 @@
+| Column | Description | Potential Responses |
+|--------|-------------|---------------------|
+| Timestamp | Indicates the month/day/year and hour, minute, and second that the responder completed the survey | Month/day/year, hour:minute:second
+| Are you a full-time undergraduate UVA student? | Indicates if the respondent is a full-time undergraduate UVA student or not | "Yes" indicates that the respondent is a full-time undergraduate UVA student, "No" indicates the respondent is not a full-time undergraduate UVA student
+| What year are you? | Indicates what year the respondent is in at the time of completion of survey | "1st" indicates the respondent is in their first year of college, "2nd" indicates the respondent is in their second year, "3rd" indicates the respondent is in their third year, "4th" indicates the respondent is in their fourth year
+| Do you believe a hot dog is a sandwich? | Indicates if the respondent believes a hot-dog is a sandwich | "Yes" indicates that the respondent believes a hot dog qualifies as a sandwich, "No" indicates that the respondent believes a hot dog does not qualify as a sandwich |
