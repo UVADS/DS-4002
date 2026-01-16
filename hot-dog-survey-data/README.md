@@ -1,12 +1,16 @@
 # Hot Dog Survey Data
 
-We collected data from students by having them filling out a survey. The raw data are uploaded in the file hot_dog_survey_spring25.xlsx, and the data dictionary describing the data is in the file data_dictionary_sp25. 
+We collected data from students by having them filling out a survey. The raw data are uploaded in the file hot_dog_survey_spring25.xlsx, and the data dictionary describing the data is in the file data_dictionary_sp26. 
 
 * Raw Data: 
-    * Hotdog Form and YikYak
-    * https://myuva-my.sharepoint.com/:x:/g/personal/tbh7cm_virginia_edu/EU5yFl_KW5FGhbHH7qBTUhgBp9r1UPJ_iS4GKGTcA2PJ-A?e=HxAxGm
+    * Data was collected from students in section 002 of the Spring 2024 DS 4002 course and subsequently cleaned by group members.
+    * Goal of this project is to investigate whether students believe hot dogs are sandwiches. 
 * Data Dictionary:
     * Included within the HotdogSurvey.csv
+    * Data was broken down into 3 categories/fields (columns); they are as follows:
+    *    Are you a full-time undergraduate UVA student? : answers in binary yes or no answers
+    *    What year are you? : answers range from '2nd', '3rd', and '4th' (year) in vectors
+    *    Do you believe a hotdog is a sandwich? : answers in binary yes or no answers
 * Raw Data:
 * Established Data: Combined Yik Yak, Survey, and Srat/Frat Data
 
