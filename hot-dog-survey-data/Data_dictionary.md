@@ -7,7 +7,8 @@ The data was collected through an online survey conducted in 2026.
 | Column Name | Description | Data Type | Example Value | 
 |-------------|-------------|-----------|---------------|
 | Timestamp | Marks the creation of a record with a timestamp. | object | 1/15/2025 21:53:05 |
-| Do you believe that a hotdog falls under the category of a sandwich? | Records initial yes/no response to research question. | object | No |
-| What is your field of study or major? | Inquires on respondents' field of study. | object | "women gender and sexuality studies" |
-|If you are an undergraduate, what is your current academic year?	| Inquires on students' university year. | object |"Third year"|
-|Gender: How do you identify?| Inquires on respondent's gender. | object | "Woman"|
+|Year at UVA | Inquires on students' university year. | object |"Third year"|
+| What schools are you a part of? | Inquires on respondents' field of study. | object | "Engineering" |
+| Is a hot dog a sandwich? | Records initial yes/no response to research question. | object | No | 
+| How strongly do you feel about your answer? | Records initial 1-5 answer. | object | "1" |
+|Gender: How do you identify? | Inquires on respondent's gender. | object | "Woman"|
