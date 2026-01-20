@@ -1,6 +1,6 @@
 # Hot Dog Survey Data
 
-We collected data from students by having them fill out a survey on through Google Forms. The raw data are uploaded in the file Hotdog Survey (Responses).xlsx, and the data dictionary describing the data is in the file data_dictionary_sp26. 
+We collected data from students by having them fill out a survey on through Google Forms. The raw data are uploaded in the file Hotdog Survey (Responses).csv, and the data dictionary describing the data is in the file data-dictionary.xlsx
 
 * Raw Data: 
     * Hotdog Form
