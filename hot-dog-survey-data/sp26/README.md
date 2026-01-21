@@ -2,6 +2,11 @@
 
 This repository contains survey data from University of Virginia undergraduate students about whether a hot dog is considered a sandwich.
 
+## Performed by:
+- Nick Larson
+- Ben Shults
+- Andrew Patterson
+
 ## Data
 - collected January 14–16, 2026
 - Data stored in 'Hotdog Survey (Responses) - Form Responses 1.csv'
