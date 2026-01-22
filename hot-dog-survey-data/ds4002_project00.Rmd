@@ -1,0 +1,44 @@
+---
+title: "ds4002_project00"
+author: "Stephanie Diau"
+fontsize: 12pt
+geometry: margin=1in
+urlcolor: black
+output: pdf_document
+date: "2026-01-21"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#one sample z-test for proportions
+```{r}
+#from cleaned code, proportion of yes was 71
+p_0 <- 0.25
+n <- 175 #total undergrads
+x <- 71
+```
+
+```{r}
+#samp proportion
+phat <- x/n
+
+serror <- sqrt(p_0 * (1 - p_0) /n)
+z <- (phat - p_0)/SE
+
+p_val <- 2 * (1 - pnorm(abs(z)))
+
+phat
+z
+p_val
+```
+
+```{r}
+serror_hat <- sqrt(phat * (1 - phat) / n)
+
+#CI
+CI <- phat + c(-1, 1) * qnorm(0.975) * serror_hat
+CI
+```
+
