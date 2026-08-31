@@ -11,7 +11,8 @@
 
 ## Exploratory Plots:
 
-<img width="602" height="357" alt="image" src="https://github.com/user-attachments/assets/d5f26c1f-18bd-4d8d-b7cd-b6d16ba200ee" />
+<img width="602" height="357" alt="image" src="https://github.com/user-attachments/assets/e37680ae-82c3-4b49-8eef-8e297f981ee6" />
+
 
 ## Conclusions:
   We can estimate that a sample of 46 UVA students narrowly believes that a hot dog is not a sandwich.
