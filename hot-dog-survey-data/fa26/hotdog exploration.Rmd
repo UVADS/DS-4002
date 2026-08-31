@@ -1,0 +1,63 @@
+---
+title: "hotdog"
+author: "Hershi"
+date: "2026-08-31"
+output: html_document
+---
+
+```{r}
+library(dplyr)
+hotdog <- read.csv("~/Desktop/DS 4002/DS 4002_ Quick Survey For A Class Competition (Responses) - Form Responses 1.csv")
+
+hotdog_clean <- rename(hotdog, response = IS.A.HOT.DOG.A.SANDWICH.
+)
+
+hotdog_clean <- hotdog_clean %>% 
+  mutate(
+    Major = str_to_upper(Major)             
+  )
+
+hotdog_clean
+
+unique(hotdog_clean$Major)
+
+
+```
+
+
+```{r}
+library(ggplot2)
+library(tidyverse)
+library(ggplot2)
+
+
+ggplot(hotdog_clean, aes(x = response, fill = response)) + 
+  geom_bar() + 
+  scale_fill_manual(
+    values = c("Yes" = "orange", "No" = "blue")
+  ) + 
+  labs(
+    title = "Is a Hot Dog a Sandwich?", 
+    x = "Response", 
+    y = "Number of Responses"
+  )
+
+```
+
+
+```{r}
+
+hotdog_clean<- hotdog_clean %>%
+  count(Major, response) %>%
+  group_by(Major) %>%
+  mutate(percent = n / sum(n) * 100)
+
+chisq.test(table(hotdog_clean$Major, hotdog_clean$response))
+
+```
+
+
+
+
+
+
