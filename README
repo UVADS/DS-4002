@@ -1,0 +1,10 @@
+Provenance: Data collected using a Google Forms survey between 8/28/2026 and 8/31/2026 created by the UVA DS4002 Section 002 course.
+Data dictionary:
+  Timestamp = The datetime a respondent submitted the survey
+  Name = The name of the respondent
+  Are you an undergraduate student at UVA? = Binary Yes/No indicating if a participant is a UVA undergrad
+  Major = The major of a respondent
+  IS A HOTDOG A SANDWICH = Indication of whether the respondent thinks a hot dog is a sandwich
+Exploratory Plots
+Quantification of Uncertainty
+Conclusions
