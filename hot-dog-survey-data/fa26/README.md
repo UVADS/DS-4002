@@ -12,6 +12,6 @@ The data was created in a survey sent out by DS 4002 undergraduate students at U
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
-data = pd.read_csv(DS 4002_ Quick Survey For A Class Competition (Responses) - Form Responses)
-
+data = pd.read_csv("DS-4001/hot-dog-survey-data/fa26/DS 4002_ Quick Survey For A Class Competition (Responses) - Form Responses 1")
+```
 
