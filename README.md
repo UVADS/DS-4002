@@ -6,7 +6,7 @@
 
 **Office Hours**:
    - **Peter Alonzi**:
-        - *Dates and times*: 11:00-14:00
+        - *Dates and times*: 11:00-14:00 Monday,Wednesday
         - *Location*:  Room 344
    - **Naman Patel**:
         - *Dates and times*: 13:00-14:00 Tuesday,Thursday
